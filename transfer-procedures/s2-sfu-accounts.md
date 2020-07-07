@@ -1,15 +1,12 @@
-
-
-| [Email Transfer Procedures for Account Owners](./account-owners.md) |
-| --- |
-| [1. Before You Start](./s1-before-you-start) |
-| **2. SFU Accounts** |
-| * [2.1 Set up a transfer folder](#2.1-set-up-a-transfer-folder) |
-| * [2.2 Add permissions](#2.2-add-permissions) |
-| [3. Non-SFU Accounts](./s3-non-sfu-accounts.md) |
-| [4. What Happens to Email After Transfer?](./s4-after-transfer.md) |
+###### [Email Transfer Procedures for Account Owners](./account-owners.md) `|` [1. Before You Start](./s1-before-you-start) `|` 2. SFU Accounts `|` [3. Non-SFU Accounts](./s3-non-sfu-accounts.md) `|` [4. After Transfer](./s4-after-transfer.md)
 
 # 2. SFU Email Accounts
+This section describes how to transfer email from an SFU account.
+
+**Contents**
+* [2.1 Set up a transfer folder](#2.1-set-up-a-transfer-folder)
+* [2.2 Add permissions](#2.2-add-permissions)
+  * [Inbox](#inbox)
 
 ## 2.1 Set up a transfer folder
 
