@@ -2,7 +2,7 @@
 
 | [Email Transfer Procedures for Account Owners](./account-owners.md) |
 | --- |
-| [1. Before You Start](./s1-before-you-start] |
+| [1. Before You Start](./s1-before-you-start) |
 | **2. SFU Accounts** |
 | [2.1 Set up a transfer folder](#2.1-set-up-a-transfer-folder)
 | [2.2 Add permissions](#2.2-add-permissions)
