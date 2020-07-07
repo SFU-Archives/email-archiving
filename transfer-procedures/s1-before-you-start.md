@@ -1,9 +1,10 @@
-|[Email Transfer Procedures for Account Owners](./account-owners.md)|
----
-|**1. Before You Start**|
-|[2. SFU Accounts](./s2-sfu-accounts.md)|
-|[3. Non-SFU Accounts](./s3-non-sfu-accounts.md)|
-|[4. What Happens to Email After Transfer?](./s4-after-transfer.md)|
+
+| [Email Transfer Procedures for Account Owners](./account-owners.md) |
+| --- |
+| **1. Before You Start** |
+| [2. SFU Accounts](./s2-sfu-accounts.md) |
+| [3. Non-SFU Accounts](./s3-non-sfu-accounts.md) |
+| [4. What Happens to Email After Transfer?](./s4-after-transfer.md) |
 
 # 1. Before You Start
 The Archives is selective in its acquisition of email. We are currently working on a more formal acquisition strategy which will set out selection criteria. In the meantime, consult with an archivist to determine whether or not your email can be retained for permanent archival preservation and if so, which parts of it.
