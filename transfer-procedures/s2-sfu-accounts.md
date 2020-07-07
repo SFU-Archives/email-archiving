@@ -28,11 +28,12 @@ You need to add permissions to every folder (including the Inbox) to share them 
 * The instructions below show how to add permissions; see also IT Services' help page on sharing folders in Outlook.
 
 ### Inbox
-<img align="right" width="350" src="./images/permissions-folder.png">
+<img align="right" width="350" style="clear:both" src="./images/permissions-folder.png">
 Right-click the `Inbox` folder and from the popup menu select "Permissions…"
-
-<img align="right" width="350" src="./images/permissions-folder.png">
-* A new dialog box appears, "Permissions for the Inbox folder"; click the `+` button to add a new permission.
+<br>
+<img align="right" width="350" style="clear:both" src="./images/permissions-folder.png">
+A new dialog box appears, "Permissions for the Inbox folder"
+* Click the `+` button to add a new permission.
 * A new dialog box appears prompting you to add the email address of the person you wish to share the folder with; enter "archeml" and click the Search Directory button.
 * The name "Archives Digital Repository – archives_repository@sfu.ca" should appear; click the `Add` button.
 * The Archives will now appear in the list of permissions. Make sure it is selected and highlighted. 
