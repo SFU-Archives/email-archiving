@@ -1,9 +1,6 @@
 # Email Transfer Procedures: Account Owners
 
-## Contents
-**Email Transfer Procedures: Account Owners**
-* [Introduction](#Introduction)
-
+## Table of cntents
 [1. Before You Start](./s1-before-you-start.md)
 
 [2. SFU Accounts](./s2-sfu-accounts.md)
