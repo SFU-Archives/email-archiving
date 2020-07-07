@@ -2,14 +2,15 @@
 
 ## Contents
 **Email Transfer Procedures: Account Owners**
+* [Introduction](#Introduction)
 
-[1. Before You Start](../s1-before-you-start.md)
+[1. Before You Start](./s1-before-you-start.md)
 
-[2. SFU Accounts](../s2-sfu-accounts.md)
+[2. SFU Accounts](./s2-sfu-accounts.md)
 
-[3. Non-SFU Accounts](../s3-non-sfu-accounts.md)
+[3. Non-SFU Accounts](./s3-non-sfu-accounts.md)
 
-[4. What Happens to Email After Transfer?](../s4-after-transfer.md)
+[4. What Happens to Email After Transfer?](./s4-after-transfer.md)
 
 ## Introduction
 These procedures are written for owners of email accounts who wish to transfer email to SFU Archives. The Archives’ transfer methods for email require that account owners perform certain actions on their end. These procedures describes those actions. 
