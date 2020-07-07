@@ -4,8 +4,8 @@
 | --- |
 | [1. Before You Start](./s1-before-you-start) |
 | **2. SFU Accounts** |
-| [2.1 Set up a transfer folder](#2.1-set-up-a-transfer-folder)
-| [2.2 Add permissions](#2.2-add-permissions)
+| * [2.1 Set up a transfer folder](#2.1-set-up-a-transfer-folder) |
+| * [2.2 Add permissions](#2.2-add-permissions) |
 | [3. Non-SFU Accounts](./s3-non-sfu-accounts.md) |
 | [4. What Happens to Email After Transfer?](./s4-after-transfer.md) |
 
