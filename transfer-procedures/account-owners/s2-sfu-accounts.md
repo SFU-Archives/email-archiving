@@ -85,6 +85,7 @@ The screenshot on the left below shows the settings for Reviewer permissions; an
 <p align="center">
 <img align="right" width="350" src="../../images/set-permissions-reviewer.png" />
 <img align="right" width="350" src="../../images/view-shared-folder.png" />
+<br clear="both">
 </p>
 
 ## 2.4 Transfer, validation, accessioning
