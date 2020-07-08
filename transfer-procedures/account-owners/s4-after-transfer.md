@@ -1,4 +1,5 @@
-###### [Email Transfer Procedures for Account Owners](./account-owners.md) `|` [1. Before You Start](./s1-before-you-start.md) `|` [2. SFU Accounts](./s2-sfu-accounts.md) `|` [3. Non-SFU Accounts](./s3-non-sfu-accounts.md) `|` 4. After Transfer
+###### [Email Archiving Home](../README.md) > [Email Transfer Procedures for Account Owners](./account-owners.md)
+###### [1. Before You Start](./s1-before-you-start.md) `|` [2. SFU Accounts](./s2-sfu-accounts.md) `|` [3. Non-SFU Accounts](./s3-non-sfu-accounts.md) `|` 4. After Transfer `|` [5. Checklist](./s5-checklist.md)
 
 # 4. What Happens to Email After Transfer?
 

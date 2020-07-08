@@ -1,17 +1,18 @@
-###### [Email Transfer Procedures for Account Owners](./account-owners.md) `|` [1. Before You Start](./s1-before-you-start) `|` 2. SFU Accounts `|` [3. Non-SFU Accounts](./s3-non-sfu-accounts.md) `|` [4. After Transfer](./s4-after-transfer.md)
+###### [Email Archiving Home](../README.md) > [Email Transfer Procedures for Account Owners](./account-owners.md)
+###### [1. Before You Start](./s1-before-you-start.md) `|` 2. SFU Accounts `|` [3. Non-SFU Accounts](./s3-non-sfu-accounts.md) `|` [4. After Transfer](./s4-after-transfer.md) `|` [5. Checklist](./s5-checklist.md)
 
 # 2. SFU Email Accounts
 This section describes how to transfer email from an SFU account.
 
 **Contents**
-- [2.1 Set up a transfer folder](#2.1-set-up-a-transfer-folder)
-- [2.2 Add permissions to the Inbox](#2.2-add-permissions-to-the-inbox)
-- [2.3 Add permissions to the transfer folder(s)](#2.3-add-permissions-to-the-transfer-folders(s))
-- [2.4 Transfer, validation, accessioning](#2-4-transfer-validation-accessioning)
-- [2.5 Remove permissions](#2-5-remove-permissions)
+- [2.1 Set up a transfer folder](#21-set-up-a-transfer-folder)
+- [2.2 Add permissions to the Inbox](#22-add-permissions-to-the-inbox)
+- [2.3 Add permissions to the transfer folder(s)](#23-add-permissions-to-the-transfer-folders)
+- [2.4 Transfer, validation, accessioning](#24-transfer-validation-accessioning)
+- [2.5 Remove permissions](#25-remove-permissions)
 
 ## 2.1 Set up a transfer folder
-<img align="right" width="350" src="../../images/transfer-folder.png">
+<img align="right" width="350" src="../images/transfer-folder.png">
 
 Create a transfer folder in your Inbox.
 - The Archives works on Mac computers and Outlook for Mac requires shared folders to be nested under the owner's Inbox.
@@ -19,7 +20,7 @@ Create a transfer folder in your Inbox.
 Move all messages or folders you wish to transfer into the transfer folder.
 - You can name the transfer folder however you wish.
 - You can move individual messages or folders containing messages into the transfer folder.
-- You can add as many folders-within-folders as you wish, but **be aware that you will need to add permissions to every individual folder** (see [step 2.2](#2.2-add-permissions-to-the-inbox) and [step 2.3](#2.3-add-permissions-to-transfer-folders)).
+- You can add as many folders-within-folders as you wish, but **be aware that you will need to add permissions to every individual folder** (see [step 2.2](#22-add-permissions-to-the-inbox) and [step 2.3](#23-add-permissions-to-transfer-folders)).
 
 **`In general you should try to maintain messages in their original folder structure as you used them; this provides valuable context for future researchers that will help them understand your email archive.`**
 
@@ -83,8 +84,8 @@ For the transfer folder and every sub-folder contained within it repeat the same
 The screenshot on the left below shows the settings for Reviewer permissions; and on the right an example of how a shared folder appears in the `archeml` account:
 
 <p align="center">
-<img align="right" width="350" src="../../images/set-permissions-reviewer.png" />
-<img align="right" width="350" src="../../images/view-shared-folder.png" />
+<img width="350" src="../../images/set-permissions-reviewer.png" />
+<img width="350" src="../../images/view-shared-folder.png" />
 <br clear="both">
 </p>
 

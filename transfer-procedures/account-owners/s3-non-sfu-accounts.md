@@ -1,4 +1,5 @@
-###### [Email Transfer Procedures for Account Owners](./account-owners.md) `|` [1. Before You Start](./s1-before-you-start.md) `|` [2. SFU Accounts](./s2-sfu-accounts.md) `|` 3. Non-SFU Accounts `|` [4. After Transfer](./s4-after-transfer.md)
+###### [Email Archiving Home](../README.md) > [Email Transfer Procedures for Account Owners](./account-owners.md)
+###### [1. Before You Start](./s1-before-you-start.md) `|` [2. SFU Accounts](./s2-sfu-accounts.md) `|` 3. Non-SFU Accounts `|` [4. After Transfer](./s4-after-transfer.md) `|` [5. Checklist](./s5-checklist.md)
 
 # 3. Non-SFU Email Accounts
 
