@@ -1,10 +1,10 @@
 # Email Archiving at SFU Archives
 
-This repository contains documentation for SFU Archives' processes for email archiving. It is a work in progress, and currently only the section on [transfer procedures for account owners](./transfer-procedures/account-owners.md) is complete. The other pages are placeholders for content still in development.
+This repository contains documentation for SFU Archives' processes for email archiving. It is a work in progress, and currently only the section on [transfer procedures for account owners](./transfer-procedures/acount-owners/account-owners.md) is complete. The other pages are placeholders for content still in development.
 
 When complete, the repository will contains several parts:
 
-[Transfer procedures](./transfer-procedures/transfer-home.md) provide detailed, step-by-step instructions for transferring email; there are separate guides for [account owners](./transfer-procedures/account-owners.md) and [SFU archivists](./transfer-procedures/archivist-home.md) respectively. Each contains a checklist that offers a quick overview of the process.
+[Transfer procedures](./transfer-procedures/transfer-home.md) provide detailed, step-by-step instructions for transferring email; there are separate guides for [account owners](./transfer-procedures/account-owners/account-owners.md) and [SFU archivists](./transfer-procedures/archives/archivist-home.md) respectively. Each contains a checklist that offers a quick overview of the process.
 
 The [Guide to Email Archiving](./guide-email-archiving/gde-home.md) provides a broader discussion of SFU Archives' approach, with separate sections covering software, formats, workflow, acquisition, transfer methods, arrangement and description, preservation, and access. This document is mainly intended for SFU Archives staff to provide guidance on the various actions required.
 
@@ -13,8 +13,8 @@ The [Downloads page](./pdf-downloads/pdf-home.md) provides downloadable pdfs of 
 ## Contents
 
 [Transfer Procedures](./transfer-procedures/transfer-home.md)
-  [Procedures for Account Owners](./transfer-procedures/account-owners.md)
-  [Procedures for SFU Archivists](./transfer-procedures/archivist-home.md)
+- [Procedures for Account Owners](./transfer-procedures/account-owners.md)
+- [Procedures for SFU Archivists](./transfer-procedures/archivist-home.md)
 
 [Guide to Email Archiving at SFU Archives](./guide-email-archiving/gde-home.md)
 
