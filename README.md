@@ -13,8 +13,8 @@ The [Downloads page](./pdf-downloads/pdf-home.md) provides downloadable pdfs of 
 ## Contents
 
 [Transfer Procedures](./transfer-procedures/transfer-home.md)
-- [Procedures for Account Owners](./transfer-procedures/account-owners.md)
-- [Procedures for SFU Archivists](./transfer-procedures/archivist-home.md)
+- [Procedures for Account Owners](./transfer-procedures/account-owners/account-owners.md)
+- [Procedures for SFU Archivists](./transfer-procedures/archives/archivist-home.md)
 
 [Guide to Email Archiving at SFU Archives](./guide-email-archiving/gde-home.md)
 
