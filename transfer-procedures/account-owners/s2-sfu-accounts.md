@@ -37,12 +37,14 @@ You need to add permissions to every folder (including the `Inbox`) to share the
 **Steps**
 
 <img align="right" width="250" src="../../images/permissions-inbox.png">
-2.2.1 Right-click the `Inbox` folder and from the popup menu select `Permissions…`
+
+2.2.1 Right-click the `Inbox` folder and from the popup menu select `Permissions`
 
 <br clear="both">
 <p></p>
 
 <img align="right" width="250" src="../../images/permissions-inbox.png">
+
 2.2.2 A new dialog box appears, `Permissions for the Inbox folder`.
 - Click the `+` button to add a new permission.
 
@@ -50,6 +52,7 @@ You need to add permissions to every folder (including the `Inbox`) to share the
 <p></p>
 
 <img align="right" width="350" src="../../images/add-email1.png">
+
 2.2.3 A new dialog box appears prompting you to add the email address of the person you wish to share the folder with.
 - Enter "archeml" and click the `Search Directory` button.
 
@@ -57,6 +60,7 @@ You need to add permissions to every folder (including the `Inbox`) to share the
 <p></p>
 
 <img align="right" width="350" src="../../images/add-email2.png">
+
 2.2.4 The name `Archives Digital Repository – archives_repository@sfu.ca` should appear.
 - Click the `Add` button.
 
@@ -64,6 +68,7 @@ You need to add permissions to every folder (including the `Inbox`) to share the
 <p></p>
 
 <img align="right" width="350" src="../../images/set-permissions-inbox.png">
+
 2.2.5 The `Archives Digital Repository` will now appear in the list of permissions.
 - Make sure it is selected and highlighted.
 
