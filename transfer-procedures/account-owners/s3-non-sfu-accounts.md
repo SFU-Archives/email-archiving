@@ -5,11 +5,11 @@
 
 SFU Archives does not currently hold any email archives from non-SFU accounts. But donations of personal correspondence from non-SFU email systems are possible and will be handled on a case-by-case basis.
 
-In general: non-SFU email must be transferred in `mbox` format or in a format that can be converted into `mbox`.
+In general: non-SFU email must be transferred in `mbox` format or in a format that we can convert into `mbox`.
 - The Archives has a script for converting email from `maildir` to `mbox` formats.
 - Gmail can be exported by users themselves as `mbox`; the process is documented below.
 
-Note that the Archives will not normally acquire email in the form of Microsoft `pst` files. Our sense is that `pst` files are typically less complete and the tools for migrating them to `mbox` are less robust. Our preference at the present time is to try to use `OfflineImap` to export email from Microsoft Exchange / Outlook email systems.
+Note that the Archives will not normally acquire email in the form of Microsoft `pst` files. Our sense is that `pst` files are typically less complete and reliable than `mbox` and that the tools for migrating them are not always robust. Our preference at the present time is to use `OfflineImap` to export email from Microsoft Exchange / Outlook email systems. But our experience to date with this method is restricted to working with SFU email.
 
 ## 3.1 Gmail
 

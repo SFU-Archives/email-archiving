@@ -3,13 +3,13 @@
 
 # 5. Email Transfer Checklist: Account Owners
 
-This checklist applies to the transfer of email from SFU Mail accounts.
+Use this checklist when transferring email from SFU Mail accounts.
 
 - [ ] 1. Consult with an archivist to see if your email may be transferred to Archives.
   - The archivist will advise on which parts of your email account are suitable for transfer and long-term preservation.
 
-- [ ] 2. Create a `Transfer folder` nested in your `Inbox`.
-  - You can give the `Transfer folder` any name but it must be placed in your `Inbox`.
+- [ ] 2. Create a `Transfer folder` inside your `Inbox`.
+  - You can give the `Transfer folder` any name but it must be placed in the `Inbox`.
 
 - [ ] 3. Move email folders and / or messages into the `Transfer folder`.
   - Wherever possible keep messages in their original folder structures.
@@ -20,23 +20,28 @@ This checklist applies to the transfer of email from SFU Mail accounts.
   - `Folder visible` = "Yes" (check box)
 
 - [ ] 5. Add permissions on your `Transfer folder` and every sub-folder within it for the Archives' `archeml` account.
-  - `Permission level` = "Reviewer".
+  - `Permission level` = "Reviewer" (= read-only access)
   - `Folder visible` = "Yes" (check box)
   - **You must add these permissions to every folder you intend to transfer, not just the top-level `Transfer folder`**.
 
 - [ ] 6. Notify the Archives that your email is ready for transfer.
 
-- [ ] 7. Receive notice from the Archives that the transfer has been completed and review the accompanying list of transfer folders the Archives has copied and exported from SFU Mail.
+- [ ] 7. Receive notice from the Archives that the transfer has been completed and review the accompanying `Transfer list` of folders that the Archives has copied and exported from SFU Mail.
+  - Ensure that everything you intended to transfer was in fact successfully transferred (i.e. appears on the `Transfer list`).
 
-- [ ] 8. Send Archives confirmation that the list of folders is complete, i.e. everything you intended to transfer has in fact been transferred.
+- [ ] 8. If folders are missing from the `Transfer list`, double-check to make sure you added permissions to the missing folders and add them if required.
 
-- [ ] 9. Receive from Archives a **Transfer Accessioned Notice** giving your transfer a unique `Accession number` and listing the folders transferred.
+- [ ] 9. Confirm with the Archives that the `Transfer list` is complete or incomplete.
+  - If folders were missed, the Archives will re-run the entire transfer; repeat steps 7-9 as needed.
 
-- [ ] 10. Determine whether or not to delete or retain your own copies of the emails transferred.
+- [ ] 10. Receive from Archives a **Transfer Accessioned Notice** giving your transfer a unique `Accession number` and listing the folders transferred.
+
+- [ ] 11. Determine whether or not to delete or retain your own copies of the emails transferred.
   - **Once deleted you will not be able to access transferred email via your SFU Mail account**
 
-- [ ] 11. If you are retaining any email that was transferred, separate it from your other email folders and keep it clearly labelled so that you will not inadvertently re-send the same email folders and messages at a later date.
+- [ ] 12. If you are retaining any email that was transferred, separate it from your other email folders and keep it clearly labelled so that you will not inadvertently re-send the same email at a later date.
 
-- [ ] 12. If you are retaining the `Transfer folder` or any of its sub-folder for future transfers, move them out of your `Inbox` and remove the permissions granted to Archives on them.
+- [ ] 13. If you are retaining the `Transfer folder` or any of its sub-folders for re-use in future transfers, move them out of your `Inbox` and change the permissions setting granted to Archives on them.
+  - Changing `Permission level` to "None" and `Folder visible` to "No" (unchecked) on the top-level folder should make the contents of any sub-folders inaccessible to the Archives.
 
 ###### Last updated: Jul 9, 2020
