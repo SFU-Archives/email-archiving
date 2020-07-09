@@ -1,4 +1,4 @@
-###### [Email Archiving Home](../README.md) > [Email Transfer Procedures for Account Owners](./account-owners.md)
+###### [Email Archiving Home](../../README.md) > [Email Transfer Procedures for Account Owners](./account-owners.md)
 ###### [1. Before You Start](./s1-before-you-start.md) `|` 2. SFU Accounts `|` [3. Non-SFU Accounts](./s3-non-sfu-accounts.md) `|` [4. After Transfer](./s4-after-transfer.md) `|` [5. Checklist](./s5-checklist.md)
 
 # 2. SFU Email Accounts
@@ -12,10 +12,10 @@ This section describes how to transfer email from an SFU account.
 - [2.5 Remove permissions](#25-remove-permissions)
 
 ## 2.1 Set up a transfer folder
-<img align="right" width="350" src="../images/transfer-folder.png">
+<img align="right" width="350" src="../../images/transfer-folder.png">
 
-Create a transfer folder in your Inbox.
-- The Archives works on Mac computers and Outlook for Mac requires shared folders to be nested under the owner's Inbox.
+Create a transfer folder in your `Inbox`.
+- The Archives works on Mac computers and Outlook for Mac requires shared folders to be nested under the owner's `Inbox`.
 
 Move all messages or folders you wish to transfer into the transfer folder.
 - You can name the transfer folder however you wish.
@@ -29,35 +29,39 @@ Move all messages or folders you wish to transfer into the transfer folder.
 You need to add permissions to every folder (including the `Inbox`) to share them with Archives.
 - Permissions should be given to the `archeml` account – this is an account used by Archives uniquely for email transfer.
 - The permissions needed on the `Inbox` folder are different (more limited) than those for the other folders.
-- The instructions below show how to add permissions; see also IT Services' help page on sharing folders in Outlook.
+- The instructions below show how to add permissions; see also [IT Services' help page on sharing folders in Outlook](https://www.sfu.ca/sfumail/using-sfu-mail/sharing/sharing-mail-folders.html).
 
 **Steps**
 
-<img align="right" width="350" src="../../images/permissions-inbox.png" />
-Right-click the `Inbox` folder and from the popup menu select "Permissions…"
+<img align="right" width="250" src="../../images/permissions-inbox.png">
+Right-click the `Inbox` folder and from the popup menu select `Permissions…`
+
 <br clear="both">
 <p></p>
 
-<img align="right" width="350" src="../../images/permissions-inbox.png" />
+<img align="right" width="250" src="../../images/permissions-inbox.png">
 A new dialog box appears, `Permissions for the Inbox folder`.
 - Click the `+` button to add a new permission.
+
 <br clear="both">
 <p></p>
 
-<img align="right" width="350" src="../../images/add-email1.png" />
+<img align="right" width="350" src="../../images/add-email1.png">
 A new dialog box appears prompting you to add the email address of the person you wish to share the folder with.
 - Enter "archeml" and click the `Search Directory` button.
+
 <br clear="both">
 <p></p>
 
-<img align="right" width="350" src="../../images/add-email2.png" />
+<img align="right" width="350" src="../../images/add-email2.png">
 The name `Archives Digital Repository – archives_repository@sfu.ca` should appear.
 - Click the `Add` button.
+
 <br clear="both">
 <p></p>
 
-<img align="right" width="350" src="../../images/set-permissions-inbox.png" />
-The Archives will now appear in the list of permissions.
+<img align="right" width="350" src="../../images/set-permissions-inbox.png">
+The `Archives Digital Repository` will now appear in the list of permissions.
 - Make sure it is selected and highlighted.
 
 - Check the box `Folder visible` and leave the `Permission level` drop-down selection to "None."
@@ -66,26 +70,26 @@ The Archives will now appear in the list of permissions.
 <br clear="both">
 <p></p>
 
-These settings mean that your `Inbox` will be visible in the `archeml` account ("folder visible") but its contents cannot be viewed or accessed (permission level = "none"); only the folders that you explicitly designate in the next step will be accessible to the Archives.
+These settings mean that your `Inbox` will be visible in the `archeml` account (`Folder visible` = "Yes"") but its contents cannot be viewed or accessed (`Permission level` = "None"); only the folders that you explicitly designate in the next step will be accessible to the Archives.
 
 ## 2.3 Add permissions to the transfer folder(s)
 
-Permissions in Outlook are not inherited by sub-folders from a top-level parent folder: _you need to explicitly add permissions to the transfer folder and each sub-folder inside it._
+Permissions in Outlook are not inherited by sub-folders from a top-level parent folder: **you need to explicitly add permissions to the transfer folder and each sub-folder inside it.**
 - Even though a folder is placed within the transfer folder, the Archives will not be able to access its contents unless you explicitly share it with the `archeml` account.
 
 **Steps**
 
 For the transfer folder and every sub-folder contained within it repeat the same steps as you applied to the `Inbox`. The only difference is in the last step, where you specify the actual permissions on the folder.
-- Select "Archives Digital Repository" so that it is highlighted.
+- Select `Archives Digital Repository` so that it is highlighted.
 - In the drop-down box labelled `Permission level` select "Reviewer"; the `Folder visible` box will default to checked; make sure to leave it checked.
 
 **Reviewer** permission means that an archivist will have read-only access to the transfer folders, which is all we need to transfer the email.
 
 The screenshot on the left below shows the settings for Reviewer permissions; and on the right an example of how a shared folder appears in the `archeml` account:
 
-<p align="center">
-<img width="350" src="../../images/set-permissions-reviewer.png" />
-<img width="350" src="../../images/view-shared-folder.png" />
+<p align="center" valign="top">
+<img width="350" src="../../images/set-permissions-reviewer.png">  
+<img width="350" src="../../images/view-shared-folder.png">
 <br clear="both">
 </p>
 
@@ -93,10 +97,10 @@ The screenshot on the left below shows the settings for Reviewer permissions; an
 
 Your email is now ready for transfer, validation, and accessioning.
 - **Transfer** copies the email over to an Archives' account (`archeml`), then exports it from the SFU Mail system.
-- **Validation** verifies that all folders you intended to transfer were in fact successfully received.
+- **Validation** verifies that all the folders that you intended to transfer were in fact successfully transferred.
 - **Accessioning** processes the transferred email into the Archives' digital preservation system.
 
-All of these steps are done by the Archives, but they require communication between the account owner and the Archives.
+All of these steps are done by an archivist, but they require communication between the account owner and the Archives.
 
 **Steps**
 
@@ -105,16 +109,16 @@ Advise the Archives when you have finished setting up the transfer folder(s) and
 
 Receive notification from the Archives that it has transferred the email.
 - Transfer occurs behind the scenes. You will not notice any change in your own account and the transfer folder and any sub-folders remain in place.
-- An archivist has accessed the transfer folder via the shares you created in steps 2.2 and 2.3, copied its contents to the Archives' `archeml` account, and ran a utility (`OfflineImap`) to download the messages and attachments from the SFU mail server to an Archives' computer.
+- An archivist has accessed the transfer folder via the shares you created in [steps 2.2](#22-add-permissions-to-the-inbox) and [2.3](#23-add-permissions-to-the-transfer-folders), copied its contents to the Archives' `archeml` account, and ran a utility (`OfflineImap`) to download the messages and attachments from the SFU mail server to an Archives' computer.
 
 The notification message you receive will include a list of all folder names included in the transfer. Review this list to ensure that the transfer is complete.
-- It is possible, for example, that you inadvertently missed some folders when adding permissions in step 3.2.
+- It is possible, for example, that you inadvertently missed some folders when adding permissions in [step 2.3](#23-add-permissions-to-the-transfer-folders).
 - If folders are missing from the transfer list, review the permissions on these folders and make sure they have been shared with the Archives.
 
-Reply to the Archives: confirm that the transfer list is either complete or indicate that folders were missed and that permissions on these folders reviewed / added.
+Reply to the Archives: confirm that the transfer list is either complete; or indicate that folders were missed and that permissions on these folders have been reviewed / added.
 - If folders were missed, the Archives will re-run the entire transfer.
 
-Receive an _Accession notice_ from Archives.
+Receive an `Transfer Accessioned Notice` from Archives.
 - On receipt of your final confirmation, an archivist will accession the transfer (assign it a unique `Accession number`) and upload it to the Archives' digital preservation system (`Archivematica`) to await further processing at a later date.
 
 **`Note that there may be a considerable time lag between completion of transfer (accessioning) and completion of processing (archival description).`**
