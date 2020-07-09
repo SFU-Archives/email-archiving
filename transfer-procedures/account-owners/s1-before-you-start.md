@@ -5,9 +5,9 @@
 The Archives is selective in its acquisition of email. Our plan is to develop a more formal acquisition strategy which will set out selection criteria. In the meantime, consult with an archivist to determine whether or not your email can be retained for permanent archival preservation and if so, which parts of it.
 
 In general:
-* Email made or received in your capacity as an SFU employee engaged in university business are university records and may be transferred to the Archives under an applicable [Records Retention Schedule and Disposal Authority (RRSDA)](http://www.sfu.ca/archives2/dur/rrsdas.html).
+* Emails made or received in your capacity as an SFU employee engaged in university business are university records and may be transferred to the Archives under an applicable [Records Retention Schedule and Disposal Authority (RRSDA)](http://www.sfu.ca/archives2/dur/rrsdas.html).
 
-* Email as personal correspondence may be transferred to the Archives under a [Donation Agreement](http://www.sfu.ca/archives/for-donors/donations.html).
+* Emails as personal correspondence may be transferred to the Archives under a [Donation Agreement](http://www.sfu.ca/archives/for-donors/donations.html).
 
 An archivist will advise you on how to proceed.
 
