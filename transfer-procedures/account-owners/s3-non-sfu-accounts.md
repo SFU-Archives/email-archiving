@@ -9,7 +9,7 @@ In general: non-SFU email must be transferred in `mbox` format or in a format th
 - The Archives has a script for converting email from `maildir` to `mbox` formats.
 - Gmail can be exported by users themselves as `mbox`; the process is documented below.
 
-Note that the Archives will not normally acquire email in the form of Microsoft `pst` files. Our sense is that `pst` files are typically less complete and the tools for migrating are less robust.
+Note that the Archives will not normally acquire email in the form of Microsoft `pst` files. Our sense is that `pst` files are typically less complete and the tools for migrating them to `mbox` are less robust. Our preference at the present time is to try to use `OfflineImap` to export email from Microsoft Exchange / Outlook email systems.
 
 ## 3.1 Gmail
 
@@ -19,12 +19,20 @@ Individuals wishing to donate private correspondence from their Gmail account ma
 Google's takeout service delivers email in `mbox` format. Export and download your email as `mbox` files, then transfer the file(s) to Archives using the Archives' [standard digital transfer procedure and the SFU MoveIt packager](http://www.sfu.ca/archives/digital-repository/transfer-digital-records.html).
 
 When using Google's takeout service, it is vital that you change the default `All Mail data included` settings.
-- Navigate to your Google account page and log in (https://myaccount.google.com).
-- Click the `Data and personalization` link on the sidebar.
-- Scroll down the page and click the `Download your data` link.
-- On the `Google Takeout` page, scroll down to the `Mail` section.
-- Click `All Mail data included` button.
-- In the `Mail contents options` menu, deselect `All Mail` and select the individual mailbox folders you want to export and transfer (even if you select every folder).
+
+**Steps**
+
+3.1.1 Navigate to your Google account page and log in (https://myaccount.google.com).
+
+3.1.2 Click the `Data and personalization` link on the sidebar.
+
+3.1.3 Scroll down the page and click the `Download your data` link.
+
+3.1.4 On the `Google Takeout` page, scroll down to the `Mail` section.
+
+3.1.5 Click `All Mail data included` button.
+
+3.1.6 In the `Mail contents options` menu, deselect `All Mail` and select the individual mailbox folders you want to export and transfer (even if you select every folder).
 
 The last step (deselect `All Mail`) is critical because it ensures that the original folder structure is preserved, i.e. Google will export each folder as its own `mbox` file rather than simpling creating one big `mbox` file for everything.
 
@@ -32,4 +40,4 @@ Typically it will take some time for Google to prepare your email for download. 
 
 <br clear="both">
 
-###### Last updated: Jul 8, 2020
+###### Last updated: Jul 9, 2020

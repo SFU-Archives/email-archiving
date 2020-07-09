@@ -9,7 +9,7 @@ This checklist applies to the transfer of email from SFU Mail accounts.
   - The archivist will advise on which parts of your email account are suitable for transfer and long-term preservation.
 
 - [ ] 2. Create a `Transfer folder` nested in your `Inbox`.
-  - You can give this folder any name.
+  - You can give the `Transfer folder` any name but it must be placed in your `Inbox`.
 
 - [ ] 3. Move email folders and / or messages into the `Transfer folder`.
   - Wherever possible keep messages in their original folder structures.
@@ -38,3 +38,5 @@ This checklist applies to the transfer of email from SFU Mail accounts.
 - [ ] 11. If you are retaining any email that was transferred, separate it from your other email folders and keep it clearly labelled so that you will not inadvertently re-send the same email folders and messages at a later date.
 
 - [ ] 12. If you are retaining the `Transfer folder` or any of its sub-folder for future transfers, move them out of your `Inbox` and remove the permissions granted to Archives on them.
+
+###### Last updated: Jul 9, 2020
