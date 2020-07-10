@@ -1,4 +1,4 @@
-###### [Home](../README.md) > [Guide for email archives](./gde-home.md)
+###### [Home](../README.md) > [Guide for email archives](./guide-introduction.md)
 ###### 1. Software `|` [2. Formats](./s2-formats.md) `|` [3. Workflow](./s3-workflow.md) `|` [4. Acquisition](./s4-acquisition.md) `|` [5. Transfer methods](./s5-transfer-methods.md) `|` [6. Appraisal and selection](./s6-appraisal-and-selection.md) `|` [7. Arrangement and description](./s7-arrangement-and-description.md) `|` [8. Preservation](./s8-preservation) | [9. Access](./s9-access)
 
 # 1. Software
