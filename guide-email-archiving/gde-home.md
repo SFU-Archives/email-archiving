@@ -1,6 +1,6 @@
 ###### [Email archiving home](../README.md)
 
-#Guide for email archives
+# Guide for email archives
 
 SFU Archives began testing email transfer in 2012. Over the next several years, the Archives acquired email from a number of SFU accounts. Following agreement with the account holder or their estate, accounts were captured as backup "snapshots" by the university's IT Services. ITS transferred the backups to Archives in 2018. Archives then exported and converted the email to `mbox` format and ingested the files into the Archives' preservation system (Archivematica) as unprocessed backlog.
 
