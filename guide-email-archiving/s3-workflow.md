@@ -1,12 +1,12 @@
-###### [Email Archiving Home](../README.md) > [Guide for Email Archives](./gde-home.md)
-###### [1. Software](./s1-software.md) `|` [2. Formats](./s2-formats.md) `|` 3. Workflow `|` [4. Acquisition](./s4-acquisition.md) `|` [5. Transfer Methods](./s5-transfer-methods.md) `|` [6. Appraisal and Selection](./s6-appraisal-and-selection.md)] `|` [7. Arrangement and Description](./s7-arrangement-and-description.md) `|` [8. Preservation](./s8-preservation) | [9. Access](./s9-access)
+###### [Home](../README.md) > [Guide for email archives](./gde-home.md)
+###### [1. Software](./s1-software.md) `|` [2. Formats](./s2-formats.md) `|` [3. Workflow `|` [4. Acquisition](./s4-acquisition.md) `|` [5. Transfer methods](./s5-transfer-methods.md) `|` [6. Appraisal and selection](./s6-appraisal-and-selection.md)] `|` [7. Arrangement and description](./s7-arrangement-and-description.md) `|` [8. Preservation](./s8-preservation) | [9. Access](./s9-access)
 
 # Workflow
 
-<img align="right" width="400" src="../images/workflow.png">
+<img align="right" width="700" src="../images/workflow.png">
 
 The workflow in outline for transfers of SFU email:
-1. Gain access to the target email via permissions to a shared transfer folder in the producer's account (active accounts); or access to an entire account (inactive accounts).
+1. Gain access to the target email via permissions to a shared transfer folder in the owner's account (active accounts); or temporary ownership of an entire account (inactive accounts).
 1. Use OfflineImap to export email from the target account / folder as `maildir`.
 1. Run ClamAV on `maildir` to scan for viruses and malware
 1. Run a Python script to convert `maildir` to `mbox`.

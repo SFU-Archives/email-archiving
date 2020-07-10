@@ -1,4 +1,4 @@
-###### [Email archiving home](../README.md)
+###### [Home](../README.md)
 
 # Guide for email archives
 

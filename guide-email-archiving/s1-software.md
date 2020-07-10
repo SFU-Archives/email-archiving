@@ -1,12 +1,12 @@
-###### [Email Archiving Home](../README.md) > [Guide for Email Archives](./gde-home.md)
-###### 1. Software `|` [2. Formats](./s2-formats.md) `|` [3. Workflow](./s3-workflw.md) `|` [4. Acquisition](./s4-acquisition.md) `|` [5. Transfer Methods](./s5-transfer-methods.md) `|` [6. Appraisal and Selection](./s6-appraisal-and-selection.md)] `|` [7. Arrangement and Description](./s7-arrangement-and-description.md) `|` [8. Preservation](./s8-preservation) | [9. Access](./s9-access)
+###### [Home](../README.md) > [Guide for email archives](./gde-home.md)
+###### 1. Software `|` [2. Formats](./s2-formats.md) `|` [3. Workflow](./s3-workflow.md) `|` [4. Acquisition](./s4-acquisition.md) `|` [5. Transfer methods](./s5-transfer-methods.md) `|` [6. Appraisal and selection](./s6-appraisal-and-selection.md)] `|` [7. Arrangement and description](./s7-arrangement-and-description.md) `|` [8. Preservation](./s8-preservation) | [9. Access](./s9-access)
 
 # Software
 
 This section provides a brief overview of the software programs and utilities used by SFU Archives in its email archiving process. The Archives' desktop computers run on Mac OS and all utilities must be able to run in that environment. Archivematica and AtoM are installed on Linux servers, but the user interface is web-based and OS-neutral.
 
 **Microsoft Exchange / Outlook**
-- The current platform for SFU's email system (SFU Mail).
+- The current platform for SFU's email system ([SFU Mail](https://www.sfu.ca/sfumail.html)).
 
 **ePADD**
 - [Open-source software](https://library.stanford.edu/projects/epadd) for processing historical email collections.
