@@ -1,7 +1,7 @@
-###### [Email Archiving Home](../../README.md) > [Email Transfer Procedures for Account Owners](./account-owners.md)
-###### [1. Before You Start](./s1-before-you-start.md) `|` [2. SFU Accounts](./s2-sfu-accounts.md) `|` [3. Non-SFU Accounts](./s3-non-sfu-accounts.md) `|` 4. After Transfer `|` [5. Checklist](./s5-checklist.md)
+###### [Home](../../README.md) > [Email transfer procedures for account owners](./account-owners.md)
+###### [1. Before you start](./s1-before-you-start.md) `|` [2. SFU accounts](./s2-sfu-accounts.md) `|` [3. Non-SFU accounts](./s3-non-sfu-accounts.md) `|` 4. After transfer `|` [5. Checklist](./s5-checklist.md)
 
-# 4. What Happens to Email After Transfer?
+# 4. What happens to email after transfer?
 
 Through the transfer process, SFU Archives acquires or makes a copy of your email and stores it offline in the `mbox` format.
 

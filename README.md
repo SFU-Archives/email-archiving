@@ -6,7 +6,7 @@ When complete, the repository will contain two parts:
 
 [Transfer procedures](./transfer-procedures/transfer-home.md) provide detailed, step-by-step instructions for transferring email; there are separate guides for [account owners](./transfer-procedures/account-owners/account-owners.md) and [SFU archivists](./transfer-procedures/archives/archivist-home.md) respectively. Each contains a checklist that offers a quick overview of the process.
 
-The [Guide for Email Archives](./guide-email-archiving/gde-home.md) provides a broader discussion of SFU Archives' approach, with separate sections covering software, formats, workflow, acquisition, transfer methods, appraisal and selection, arrangement and description, preservation, and access. This document is mainly intended for SFU Archives staff to provide guidance on the various actions required.
+The [Guide for Email Archives](./guide-email-archives/guide-introduction.md) provides a broader discussion of SFU Archives' approach, with separate sections covering software, formats, workflow, acquisition, transfer methods, appraisal and selection, arrangement and description, preservation, and access. This document is mainly intended for SFU Archives staff to provide guidance on the various actions required.
 
 ## Contents
 
@@ -14,7 +14,7 @@ The [Guide for Email Archives](./guide-email-archiving/gde-home.md) provides a b
 - [Procedures for Account Owners](./transfer-procedures/account-owners/account-owners.md)
 - [Procedures for SFU Archivists](./transfer-procedures/archives/archivist-home.md)
 
-[Guide for Email Archives](./guide-email-archiving/gde-home.md)
+[Guide for Email Archives](./guide-email-archives/guide-introduction.md)
 
 ###### Last updated: Jul 10, 2020
 

@@ -1,7 +1,7 @@
-###### [Email Archiving Home](../../README.md) > [Email Transfer Procedures for Account Owners](./account-owners.md)
-###### [1. Before You Start](./s1-before-you-start.md) `|` [2. SFU Accounts](./s2-sfu-accounts.md) `|` [3. Non-SFU Accounts](./s3-non-sfu-accounts.md) `|` [4. After Transfer](./s4-after-transfer.md) `|` 5. Checklist
+###### [Home](../../README.md) > [Email transfer procedures for account owners](./account-owners.md)
+###### [1. Before you start](./s1-before-you-start.md) `|` [2. SFU accounts](./s2-sfu-accounts.md) `|` [3. Non-SFU accounts](./s3-non-sfu-accounts.md) `|` [4. After transfer](./s4-after-transfer.md) `|` 5. Checklist
 
-# 5. Email Transfer Checklist: Account Owners
+# 5. Email transfer checklist: account wwners
 
 Use this checklist when transferring email from SFU Mail accounts.
 
