@@ -8,7 +8,7 @@ This section describes how to transfer email from an SFU account.
 - [2.1 Set up a transfer folder](#21-set-up-a-transfer-folder)
 - [2.2 Add permissions to the Inbox](#22-add-permissions-to-the-inbox)
 - [2.3 Add permissions to the transfer folder(s)](#23-add-permissions-to-the-transfer-folders)
-- [2.4 Transfer, validation, accessioning](#24-transfer-validation-accessioning)
+- [2.4 Validate transfer](#24-validate-transfer)
 - [2.5 Remove permissions](#25-remove-permissions)
 
 ## 2.1 Set up a transfer folder
@@ -106,7 +106,7 @@ The screenshots below show the settings for Reviewer permissions (on the left); 
 <br clear="both">
 </p>
 
-## 2.4 Transfer, validation, accessioning
+## 2.4 Validate transfer
 
 Your email is now ready for transfer, validation, and accessioning.
 - **Transfer** copies the email over to the Archives' account (`archeml`), then exports it from the SFU Mail system.
