@@ -24,7 +24,7 @@ Use this checklist when transferring email from SFU Mail accounts.
   - `Permission level` = "Reviewer" (= read-only access)
   - `Folder visible` = "Yes" (check box)
   - **You must add these permissions to every folder you intend to transfer, not just the top-level `Transfer folder`**.
-    - For screenshots etc. see [section 2.3 Add permissions to the transfer folder(s)](./s2-sfu-accounts.md#22-add-permissions-to-the-transfer-folders).
+  - For screenshots etc. see [section 2.3 Add permissions to the transfer folder(s)](./s2-sfu-accounts.md#22-add-permissions-to-the-transfer-folders).
 
 - [ ] 6. Notify the Archives that your email is ready for transfer.
 
