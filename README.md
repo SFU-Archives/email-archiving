@@ -2,7 +2,7 @@
 
 This repository contains documentation relating to SFU Archives' processes for email archiving. It is a work in progress, and currently only the section on [transfer procedures for account owners](./transfer-procedures/account-owners/account-owners.md) is complete. The other pages are placeholders for content still in development.
 
-When complete, the repository will contains two parts:
+When complete, the repository will contain two parts:
 
 [Transfer procedures](./transfer-procedures/transfer-home.md) provide detailed, step-by-step instructions for transferring email; there are separate guides for [account owners](./transfer-procedures/account-owners/account-owners.md) and [SFU archivists](./transfer-procedures/archives/archivist-home.md) respectively. Each contains a checklist that offers a quick overview of the process.
 
