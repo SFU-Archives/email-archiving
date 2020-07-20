@@ -1,4 +1,4 @@
-###### [Home](../../README.md) > [Email transfer procedures for account owners](./account-owners.md)
+###### [Email Archiving](../../README.md) > [Transfer procedures (account owners)](./owners-introduction.md)
 ###### 1. Before you start `|` [2. SFU accounts](./s2-sfu-accounts.md) `|` [3. Non-SFU accounts](./s3-non-sfu-accounts.md) `|` [4. After transfer](./s4-after-transfer.md) `|` [5. Checklist](./s5-checklist.md)
 
 # 1. Before You Start
@@ -17,4 +17,4 @@ Email transferred to Archives is stored offline, outside any active email system
 
 **If you require continuing access to some or all of the email after transfer do not delete it from your active email account. Consult an archivist to determine what is most appropriate for your own circumstances.**
 
-###### Last updated: Jul 9, 2020
+###### Last updated: Jul 20, 2020

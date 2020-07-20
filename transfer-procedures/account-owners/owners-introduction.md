@@ -4,7 +4,7 @@
 
 These procedures are written for owners of email accounts who wish to transfer email to SFU Archives. The Archives’ transfer methods for email require that account owners perform certain actions on their end. This guide describes these actions and how to do them.
 
-Anyone considering transferring email to the Archives should make sure they understand the implications of transfer; please read [section 1, Before you start](./s1-before-you-start.md).
+Anyone considering transferring email to the Archives should make sure they understand the implications of transfer; please read [Before you start (section 1)](./s1-before-you-start.md).
 
 For a quick overview of the process, jump to [section 5, Checklist](./s5-checklist.md). For detailed instructions, see [section 2](./s2-sfu-accounts.md) for SFU accounts, [section 3](./s3-non-sfu-accounts.md) for non-SFU accounts.
 
@@ -27,7 +27,7 @@ Note that the email transfer process captures only email messages and attachment
 Download entire document as a pdf
 ```
 
-###### Last updated: Jul 10, 2020
+###### Last updated: Jul 20, 2020
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 

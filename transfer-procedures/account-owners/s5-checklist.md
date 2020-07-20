@@ -1,4 +1,4 @@
-###### [Home](../../README.md) > [Email transfer procedures for account owners](./account-owners.md)
+###### [Email Archiving](../../README.md) > [Transfer procedures (account owners)](./owners-introduction.md)
 ###### [1. Before you start](./s1-before-you-start.md) `|` [2. SFU accounts](./s2-sfu-accounts.md) `|` [3. Non-SFU accounts](./s3-non-sfu-accounts.md) `|` [4. After transfer](./s4-after-transfer.md) `|` 5. Checklist
 
 # 5. Email transfer checklist: account owners
@@ -47,4 +47,4 @@ Use this checklist when transferring email from SFU Mail accounts.
   - Changing `Permission level` to "None" and `Folder visible` to "No" (unchecked) on the top-level folder should make the contents of any sub-folders inaccessible to the Archives.
   - The most secure approach, however, is to simply delete the permissions given to `archeml` and recreate them later when you need to.
 
-###### Last updated: Jul 10, 2020
+###### Last updated: Jul 20, 2020

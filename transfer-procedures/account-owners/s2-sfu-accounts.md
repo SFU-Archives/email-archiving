@@ -1,4 +1,4 @@
-###### [Home](../../README.md) > [Email transfer procedures for account owners](./account-owners.md)
+###### [Email Archiving](../../README.md) > [Transfer procedures (account owners)](./owners-introduction.md)
 ###### [1. Before you start](./s1-before-you-start.md) `|` 2. SFU accounts `|` [3. Non-SFU accounts](./s3-non-sfu-accounts.md) `|` [4. After transfer](./s4-after-transfer.md) `|` [5. Checklist](./s5-checklist.md)
 
 # 2. SFU email accounts
@@ -159,4 +159,4 @@ Your transfer is now complete. The Archives will delete its share to your `Inbox
 
 - Then later, when you want make another transfer, simply add back the permission settings, move the set of transfer folders to your `Inbox`, and notify the Archives that you are ready to make another transfer.
 
-###### Last updated: Jul 9, 2020
+###### Last updated: Jul 20, 2020

@@ -1,4 +1,4 @@
-###### [Home](../../README.md) > [Email transfer procedures for account owners](./account-owners.md)
+###### [Email Archiving](../../README.md) > [Transfer procedures (account owners)](./owners-introduction.md)
 ###### [1. Before you start](./s1-before-you-start.md) `|` [2. SFU accounts](./s2-sfu-accounts.md) `|` [3. Non-SFU accounts](./s3-non-sfu-accounts.md) `|` 4. After transfer `|` [5. Checklist](./s5-checklist.md)
 
 # 4. What happens to email after transfer?
@@ -15,4 +15,4 @@ Email archives often contain sensitive personal information of third parties, as
 
 For more information on the Archives' workflows and processes for handling email, see the broader discussion in [Guide for Email Archives](../../guide-email-archiving/gde-home.md) (under development).
 
-###### Last updated: Jul 10, 2020
+###### Last updated: Jul 20, 2020
