@@ -1,5 +1,5 @@
-###### [Email Archiving](../../README.md) > [Transfer procedures (account owners)](./owners-introduction.md)
-###### [1. Before you start](./s1-before-you-start.md) `|` [2. SFU accounts](./s2-sfu-accounts.md) `|` [3. Non-SFU accounts](./s3-non-sfu-accounts.md) `|` [4. After transfer](./s4-after-transfer.md) `|` 5. Checklist
+###### [Email Archiving](../../README.md) > [Transfer procedures (account owners)](./00-introduction.md)
+###### [1. Before you start](./01-before-you-start.md) `|` [2. SFU accounts](./02-sfu-accounts.md) `|` [3. Non-SFU accounts](./03-non-sfu-accounts.md) `|` [4. After transfer](./04-after-transfer.md) `|` 5. Checklist
 
 # 5. Email transfer checklist: account owners
 
@@ -18,13 +18,13 @@ Use this checklist when transferring email from SFU Mail accounts.
 - [ ] 4. Add permissions on your `Inbox` for the Archives' `archeml` account:
   - `Permission level` = "None".
   - `Folder visible` = "Yes" (check box)
-  - For screenshots etc. see [section 2.2 Add permissions to the Inbox](./s2-sfu-accounts.md#22-add-permissions-to-the-inbox).
+  - For screenshots etc. see [section 2.2 Add permissions to the Inbox](./02-sfu-accounts.md#22-add-permissions-to-the-inbox).
 
 - [ ] 5. Add permissions on your `Transfer folder` and every sub-folder within it for the Archives' `archeml` account.
   - `Permission level` = "Reviewer" (= read-only access)
   - `Folder visible` = "Yes" (check box)
   - **You must add these permissions to every folder you intend to transfer, not just the top-level `Transfer folder`**.
-  - For screenshots etc. see [section 2.3 Add permissions to the transfer folder(s)](./s2-sfu-accounts.md#22-add-permissions-to-the-transfer-folders).
+  - For screenshots etc. see [section 2.3 Add permissions to the transfer folder(s)](./02-sfu-accounts.md#22-add-permissions-to-the-transfer-folders).
 
 - [ ] 6. Notify the Archives that your email is ready for transfer.
 
@@ -47,4 +47,4 @@ Use this checklist when transferring email from SFU Mail accounts.
   - Changing `Permission level` to "None" and `Folder visible` to "No" (unchecked) on the top-level folder should make the contents of any sub-folders inaccessible to the Archives.
   - The most secure approach, however, is to simply delete the permissions given to `archeml` and recreate them later when you need to.
 
-###### Last updated: Jul 20, 2020
+###### Last updated: Jul 21, 2020

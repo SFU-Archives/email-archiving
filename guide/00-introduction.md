@@ -1,6 +1,8 @@
-###### [Home](../README.md)
+###### [Email Archiving](../README.md)
 
 # Guide for email archives
+
+###### Status: under development
 
 SFU Archives began testing email transfer in 2012. Over the next several years, the Archives acquired email from a number of SFU accounts. Following agreement with the account holder or their estate, accounts were captured as backup "snapshots" by the university's IT Services. ITS transferred the backups to Archives in 2018. Archives then exported and converted the email to `mbox` format and ingested the files into the Archives' preservation system (Archivematica) as unprocessed backlog.
 
@@ -10,11 +12,11 @@ These guidelines document the results of this work. They provide a basis for pro
 
 ## Contents
 
-[1. Software](./s1-software.md)
+[1. Software](./01-software.md)
 
-[2. Formats](./s2-formats.md)
+[2. Formats](./02-formats.md)
 
-[3. Workflow](./s3-workflow.md)
+[3. Workflow](./03-workflow.md)
 
 4. Acquisition
 
