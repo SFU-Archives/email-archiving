@@ -1,7 +1,7 @@
 ###### [Email Archiving](../../README.md) > [Transfer procedures (account owners)](./owners-introduction.md)
 ###### [1. Before you start](./s1-before-you-start.md) `|` 2. SFU accounts `|` [3. Non-SFU accounts](./s3-non-sfu-accounts.md) `|` [4. After transfer](./s4-after-transfer.md) `|` [5. Checklist](./s5-checklist.md)
 
-# 2. SFU email accounts
+# 2. SFU email accounts 
 This section describes how to transfer email from an SFU account.
 
 **Contents**
