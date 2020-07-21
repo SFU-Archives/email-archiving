@@ -1,7 +1,7 @@
-###### [Email Archiving](../../README.md) > [Transfer procedures (account owners)](./owners-introduction.md)
-###### [1. Before you start](./s1-before-you-start.md) `|` 2. SFU accounts `|` [3. Non-SFU accounts](./s3-non-sfu-accounts.md) `|` [4. After transfer](./s4-after-transfer.md) `|` [5. Checklist](./s5-checklist.md)
+###### [Email Archiving](../../README.md) > [Transfer procedures (account owners)](./00-introduction.md)
+###### [1. Before you start](./01-before-you-start.md) `|` 2. SFU accounts `|` [3. Non-SFU accounts](./03-non-sfu-accounts.md) `|` [4. After transfer](./04-after-transfer.md) `|` [5. Checklist](./05-checklist.md)
 
-# 2. SFU email accounts 
+# 2. SFU email accounts
 This section describes how to transfer email from an SFU account.
 
 **Contents**
@@ -135,7 +135,7 @@ All of these steps are done by an archivist, but they require communication betw
 - On receipt of your final confirmation, an archivist will accession the transfer (assign it a unique `Accession number`) and upload it to the Archives' digital preservation system (`Archivematica`) to await further processing at a later date.
 
 **Note that there may be a considerable time lag between completion of transfer (accessioning) and completion of processing (archival description).**
-- For more on this, see in this guide [Section 4, What happens to email after transfer?](./s4-after-transfer.md)
+- For more on this, see in this guide [Section 4, What happens to email after transfer?](./04-after-transfer.md)
 
 ## 2.5 Remove permissions
 
@@ -146,7 +146,7 @@ Your transfer is now complete. The Archives will delete its share to your `Inbox
 2.5.1 Delete the Archives' permission on your `Inbox`.
 
 2.5.2 If you no longer need to access the email messages transferred, you can now delete them from your account.
-- But see the caution in [Section 1](./s1-before-you-start): **once deleted, you will not be able to view transferred email from your SFU account.**
+- But see the caution in [Section 1](./01-before-you-start): **once deleted, you will not be able to view transferred email from your SFU account.**
 - The Archives' access protocols are set up for third parties to access historical email collections in an offline environment.
 - If you need continuing access to particular messages, do not delete them from your account.
 
@@ -159,4 +159,4 @@ Your transfer is now complete. The Archives will delete its share to your `Inbox
 
 - Then later, when you want make another transfer, simply add back the permission settings, move the set of transfer folders to your `Inbox`, and notify the Archives that you are ready to make another transfer.
 
-###### Last updated: Jul 20, 2020
+###### Last updated: Jul 21, 2020

@@ -1,5 +1,5 @@
-###### [Home](../README.md) > [Guide for email archives](./guide-introduction.md)
-###### [1. Software](./s1-software.md) `|` [2. Formats](./s2-formats.md) `|` [3. Workflow `|` [4. Acquisition](./s4-acquisition.md) `|` [5. Transfer methods](./s5-transfer-methods.md) `|` [6. Appraisal and selection](./s6-appraisal-and-selection.md) `|` [7. Arrangement and description](./s7-arrangement-and-description.md) `|` [8. Preservation](./s8-preservation) | [9. Access](./s9-access)
+###### [Email Archiving](../README.md) > [Guide](./00-introduction.md)
+###### [1. Software](./01-software.md) `|` [2. Formats](./02-formats.md) `|` 3. Workflow `|` [4. Acquisition](./04-acquisition.md) `|` [5. Transfer methods](./05-transfer-methods.md) `|` [6. Appraisal and selection](./06-appraisal-selection.md) `|` [7. Arrangement and description](./07-arrangement-description.md) `|` [8. Preservation](./08-preservation.md) | [9. Access](./09-access.md)
 
 # 3. Workflow
 
@@ -31,4 +31,4 @@ If / when this isssue is addressed in ePADD, the Archives will retroactively gen
 
 <br clear="both">
 
-###### Last updated: Jul 9, 2020
+###### Last updated: Jul 21, 2020

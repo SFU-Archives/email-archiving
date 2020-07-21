@@ -1,5 +1,5 @@
-###### [Email Archiving](../../README.md) > [Transfer procedures (account owners)](./owners-introduction.md)
-###### [1. Before you start](./s1-before-you-start.md) `|` [2. SFU accounts](./s2-sfu-accounts.md) `|` 3. Non-SFU accounts `|` [4. After transfer](./s4-after-transfer.md) `|` [5. Checklist](./s5-checklist.md)
+###### [Email Archiving](../../README.md) > [Transfer procedures (account owners)](./00-introduction.md)
+###### [1. Before you start](./01-before-you-start.md) `|` [2. SFU accounts](./02-sfu-accounts.md) `|` 3. Non-SFU accounts `|` [4. After transfer](./04-after-transfer.md) `|` [5. Checklist](./05-checklist.md)
 
 # 3. Non-SFU email accounts
 
@@ -40,4 +40,4 @@ Typically it will take some time for Google to prepare your email for download. 
 
 <br clear="both">
 
-###### Last updated: Jul 20, 2020
+###### Last updated: Jul 21, 2020
