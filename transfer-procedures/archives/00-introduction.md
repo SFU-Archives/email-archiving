@@ -1,4 +1,5 @@
-###### [Email Archiving](../../README.md)
+###### [Email Archiving](../../README.md) > [Transfer procedures](../transfer-home.md)
+
 
 # Email transfer procedures for SFU archivists
 
