@@ -23,9 +23,8 @@ Note that the email transfer process captures only email messages and attachment
 
 [5. Transfer Checklist](./05-checklist.md)
 
-```
-Download entire document as a pdf
-```
+## Download
+[Download entire document as a pdf](../../downloads/email-transfer-account-owners.pdf)
 
 ###### Last updated: Jul 21, 2020
 
