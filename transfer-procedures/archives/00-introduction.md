@@ -1,1 +1,7 @@
-# Email Transfer Procedures for SFU Archivists
+###### [Email Archiving](../../README.md)
+
+# Email transfer procedures for SFU archivists
+
+###### Status: under development
+
+###### Last updated: Jul 21, 2020
