@@ -5,9 +5,17 @@
 
 ###### Status: under development
 
-Run ClamAV software against the `maildir` output in [section 1](./01-transfer-folders.md) or [section 2](./02-transfer-account.md). This will identify any messages or attachments that contain viruses or other malware. Infected files should be removed before conversion to `mbox` ([section 4](./04-convert-to-mbox.md); deletion of files should be documented.
+This step uses ClamAV software against the `maildir` output in [step 1](./01-transfer-folders.md) or [step 2](./02-transfer-account.md) to identify any messages or attachments that contain viruses or other malware.
+- Infected files should be removed before conversion to `mbox` ([section 4](./04-convert-to-mbox.md).
+- Deletion of infected files should be documented.
 
-## 3.1 Create a desktop folder for infected files
+**Contents:**
+- [3.1 Create a folder for infected files](#31-create-a-folder-for-infected-files)
+- [3.2 Update virus definitions](#32-update-virus-definitions)
+- [3.3 Run scan](#33-run-scan)
+- [3.4 Remove infected files](#34-remove-infected-files)
+
+## 3.1 Create a folder for infected files
 Create a folder on your computer (e.g. desktop) to store copies of infected files; name the folder however you like (e.g. `Clamscan` or `infected_files`).
 
 ## 3.2 Update virus definitions
@@ -41,7 +49,7 @@ The `clamscan` command has the following options:
 - ClamAV will makes a copy of any infected files it finds.
 
 `<path/to/target/folder>` = file path of the target folder containing items to be scanned.
-•	This will be the `maildir` folder you created in [section 1](./01-transfer-folders.md) or [section 2](./02-transfer-account.md)
+- This will be the `maildir` folder you created in [section 1](./01-transfer-folders.md) or [section 2](./02-transfer-account.md)
 
 When the scan is complete, you will get a `scan summary` report in Terminal.
 
@@ -57,7 +65,7 @@ Data read: 0.12 MB (ratio 1.00:1)
 Time: 16.040 sec (0 m 16 s)
 ```
 
-## 4.4 Infected files
+## 4.4 Remove infected files
 Any infected files will be listed your Terminal window and a copy created and stored in the `infected_files` folder you specified in the `copy=` option.
 
 If there are infected files:
