@@ -18,19 +18,21 @@ These guidelines document the results of this work. They provide a basis for pro
 
 [3. Workflow](./03-workflow.md)
 
-4. Acquisition
+[4. Acquisition](./04-acquisition.md)
 
-5. Transfer Methods
+[5. Transfer methods](./05-transfer-methods.md)
 
-6. Appraisal and Selection
+[6. Accessioning](./06-accessioning.md)
 
-7. Arrangement and Description
+[7. Appraisal and selection](./07-appraisal-selection.md)
 
-8. Preservation
+[8. Arrangement and description](./08-arrangement-description.md)
 
-9. Access
+[9. Preservation](./09-preservation.md)
 
-###### Last updated: Jul 10, 2020
+[10. Access](./10-access.md)
+
+###### Last updated: Jul 22, 2020
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
