@@ -12,7 +12,7 @@ The [Guide for Email Archives](./guide/00-introduction.md) offers a broader disc
 
 [Transfer Procedures](./transfer-procedures/transfer-home.md)
 - [Procedures for Account Owners](./transfer-procedures/account-owners/00-introduction.md)
-- Procedures for SFU Archivists (forthcoming)
+- [Procedures for SFU Archivists (forthcoming)]
 
 [Guide for Email Archives](./guide/00-introduction.md)
 - [1. Software](./guide/01-software.md)
@@ -21,10 +21,10 @@ The [Guide for Email Archives](./guide/00-introduction.md) offers a broader disc
 - [4. Acquisition](./guide/04-acquisition.md)
 - [5. Transfer Methods](./guide/05-transfer-methods.md)
 - [6. Validation and Accessioning](./guide/06-accessioning.md)
-- 7. Appraisal and Selection (forthcoming)
-- 8. Arrangement and Description (forthcoming)
-- 9. Preservation (forthcoming)
-- 10. Access (forthcoming)
+- [7. Appraisal and Selection (forthcoming)]
+- [8. Arrangement and Description (forthcoming)]
+- [9. Preservation (forthcoming)]
+- [10. Access (forthcoming)]
 
 ###### Last updated: Aug 13, 2020
 
