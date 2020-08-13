@@ -4,6 +4,12 @@
 # 6. Validation and Accessioning
 On receipt of an email transfer, an archivist validates and accessions the transfer. Detailed instructions are given in the Transfer procedures; this page just provides an overview.
 
+**Contents**
+- [6.1 Virus scan](#61-virus-scan)
+- [6.2 Conversion to mbox](#62-conversion-to-mbox)
+- [6.3 Validation](#63-validation)
+- [6.4 Accessioning](#64-accessioning)
+
 ## 6.1 Virus scan
 An archivist uses ClamAV to scan transferred email for files containing virus or other malware.
 
