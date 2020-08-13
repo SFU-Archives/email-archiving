@@ -4,7 +4,7 @@
 
 ###### Status: under development
 
-SFU Archives began testing email transfer in 2012. Over the next several years, the Archives acquired email from a number of SFU accounts. Following agreement with the account holder or their estate, accounts were captured as backup "snapshots" by the university's IT Services. ITS transferred the backups to Archives in 2018. Archives then exported and converted the email to `mbox` format and ingested the files into the Archives' preservation system (Archivematica) as unprocessed backlog.
+SFU Archives began testing email transfer in 2012. Over the next several years, the Archives acquired email from a number of SFU accounts. Following agreement with the account holder or their estate, the university's IT Services department captured the accounts as backup "snapshots". ITS transferred the backups to Archives in 2018. Archives then exported and converted the email to `mbox` format and ingested the files into the Archives' preservation system (Archivematica) as unprocessed backlog.
 
 In 2019-20, the Archives undertook an arrangement and description project with one of these email accounts (Michael Fellman, fonds F-260). The project established a basic workflow to integrate a number of different software tools for processing and managing email archives. In 2020 we were also able to acquire email from an additional SFU account, and this provided an opportunity to review / revise transfer procedures.
 
@@ -22,7 +22,7 @@ These guidelines document the results of this work. They provide a basis for pro
 
 [5. Transfer methods](./05-transfer-methods.md)
 
-[6. Accessioning](./06-accessioning.md)
+[6. Validation and accessioning](./06-accessioning.md)
 
 [7. Appraisal and selection](./07-appraisal-selection.md)
 
@@ -32,7 +32,7 @@ These guidelines document the results of this work. They provide a basis for pro
 
 [10. Access](./10-access.md)
 
-###### Last updated: Jul 22, 2020
+###### Last updated: Aug 11, 2020
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
