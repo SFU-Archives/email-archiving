@@ -1,7 +1,7 @@
 ###### [Email Archiving](../README.md) > [Guide](./00-introduction.md)
 ###### [1. Software](./01-software.md) `|` [2. Formats](./02-formats.md) `|` [3. Workflow](./03-workflow.md) `|` [4. Acquisition](./04-acquisition.md) `|` [5. Transfer methods](./05-transfer-methods.md) `|` 6. Validation and accessioning `|` [7. Appraisal and selection](./07-appraisal-selection.md) `|` [8. Arrangement and description](./08-arrangement-description.md) `|` [9. Preservation](./09-preservation.md) | [10. Access](./10-access.md)
 
-# 6. Validation and accessioning
+# 6. Validation and Accessioning
 On receipt of an email transfer, an archivist validates and accessions the transfer. Detailed instructions are given in the Transfer procedures; this page just provides an overview.
 
 ## 6.1 Virus scan
@@ -30,6 +30,6 @@ For more details, see the [Transfer procedures for SFU archivists, section 5](..
 ## 6.4 Accessioning
 When an archivist has validated an email transfer, the transfer is formally accessioned into the Archives' holdings. This means it is registered in the Archives' AIS FileMaker database, assigned a unique accession number, and provided with a minimal description. The `mbox` file(s) are ingested to Archivematica and fully processed as AIPs – see [section 9 in this Guide (Preservation)](./09-preservation.md) for more on Archivematica processing.
 
-The Accession table in the AIS database broadly follows the [Canadian Archival Accession Information Standard (CAAIS)](http://archivescanada.ca/CWG_AccessionStandard). Database documentation is available elsewhere (and will eventually be migrated to the Archives' GitHub site). Email-specific application of certain fields are noted in the [Transfer procedures for archivists](../transfer-procedures/archives/00-introduction.md).
+The Accession table in the AIS database broadly follows the [Canadian Archival Accession Information Standard (CAAIS)](http://archivescanada.ca/CWG_AccessionStandard). Database documentation is available elsewhere (and will eventually be migrated to this GitHub site). Email-specific application of certain fields are noted in the [Transfer procedures for archivists](../transfer-procedures/archives/00-introduction.md).
 
-###### Last updated: Aug 11, 2020
+###### Last updated: Aug 13, 2020
