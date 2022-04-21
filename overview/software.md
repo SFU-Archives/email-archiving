@@ -1,5 +1,5 @@
 ###### [Email Archiving](../README.md)
-###### [Email Archiving at SFU](email-archiving-at-sfu.md) `|` Software `|` [Formats](formats.md)
+###### [Email Archiving at SFU](email-archiving-at-sfu.md) `|` Software `|` [Formats](formats.md) `|` [Transfer Workflow](transfer-workflow.md)
 
 # Software
 
@@ -42,6 +42,4 @@ The Archives' desktop computers run on Mac OS and all utilities must be able to 
 - Archives' custom in-house FileMaker database.
 - Used to accession email transfers and register AIPs.
 
-***
-
-###### Last updated: Apr 20, 2022
+###### Last updated: Apr 21, 2022

@@ -1,9 +1,9 @@
 ###### [Email Archiving](../README.md)
-###### Email Archiving at SFU `|` [Software](software.md) `|` [Formats](formats.md)
+###### Email Archiving at SFU `|` [Software](software.md) `|` [Formats](formats.md) `|` [Transfer Workflow](transfer-workflow.md)
 
 # Email Archiving at SFU
 
-SFU Archives began testing email transfer in 2012. Over the next several years, the Archives acquired email from a number of SFU accounts. Following agreement with the account holder or their estate, the university's IT Services department (ITS) made backups of the accounts and stored them offline. In April 2018, ITS transferred the the backups to Archives by restoring their contents to a dedicated Archives' account. Archives then exported and converted the email to `mbox` format and ingested the files into the Archives' preservation system (Archivematica) as unprocessed backlog.
+SFU Archives began testing email transfer in 2012. Over the next several years, the Archives acquired email from a number of SFU accounts. Following agreement with the account holder or their estate, the university's IT Services department (ITS) made backups of the accounts and stored them offline. In April 2018, ITS transferred the backups to Archives by restoring their contents to a dedicated Archives' account. Archives then exported and converted the email to `mbox` format and ingested the files into the Archives' preservation system (Archivematica) as unprocessed backlog.
 
 In 2019-20, the Archives undertook an arrangement and description project with one of these email accounts (Michael Fellman, fonds F-260). The project established a basic workflow to integrate a number of different software tools for processing and managing email archives. In 2021 we were able to acquire email from an additional SFU account, and this provided an opportunity to review / revise transfer procedures. Transfer procedures have now been updated (May 2022) for both the account holder and archivist points of view.
 

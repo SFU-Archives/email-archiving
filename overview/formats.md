@@ -1,5 +1,5 @@
 ###### [Email Archiving](../README.md)
-###### [Email Archiving at SFU](email-archiving-at-sfu.md) `|` [Software](software.md) `|` Formats
+###### [Email Archiving at SFU](email-archiving-at-sfu.md) `|` [Software](software.md) `|` Formats `|` [Transfer Workflow](transfer-workflow.md)
 
 # Email Archiving: Formats
 
@@ -84,6 +84,4 @@ One difficulty with this approach is protecting the link between an attachment a
 
 This seems likely to be a cumbersome operation. Moreover, the ePADD-assigned ID numbers will not be present in the preservation `mbox` version. In general, management of attachments is an area requiring more investigation and work.
 
-***
-
-###### Last updated: Apr 20, 2022
+###### Last updated: Apr 21, 2022
