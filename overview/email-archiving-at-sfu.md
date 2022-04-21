@@ -13,6 +13,4 @@ The Archives' longer-term goal is to develop a more comprehensive and proactive 
 
 The Archives now has eight email accounts in backlog. We plan to begin processing these in 2022-23 and, as part of this work, to document our appraisal, arrangement and description, and access processes.
 
-***
-
-###### Last updated: Apr 20, 2022
+###### Last updated: Apr 21, 2022
