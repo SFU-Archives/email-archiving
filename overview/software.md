@@ -1,9 +1,11 @@
-###### [Email Archiving](../README.md) > [Guide](./00-introduction.md)
-###### 1. Software `|` [2. Formats](./02-formats.md) `|` [3. Workflow](./03-workflow.md) `|` [4. Acquisition](./04-acquisition.md) `|` [5. Transfer methods](./05-transfer-methods.md) `|` [6. Validation and accessioning](./06-accessioning.md) `|` [7. Appraisal and selection](./07-appraisal-selection.md) `|` [8. Arrangement and description](./08-arrangement-description.md) `|` [9. Preservation](./09-preservation.md) | [10. Access](./10-access.md)
+###### [Email Archiving](../README.md)
+###### [Email Archiving at SFU](email-archiving-at-sfu.md) `|` Software `|` [Formats](formats.md)
 
-# 1. Software
+# Software
 
-This section provides a brief overview of the software programs and utilities used by SFU Archives in its email archiving process. The Archives' desktop computers run on Mac OS and all utilities must be able to run in that environment. Archivematica and AtoM are installed on Linux servers, but the user interface is web-based and OS-neutral.
+SFU Archives uses a number of software programs and utilities in its email archiving process. This page provides a basic list, with links to more detailed documentation (when available) on the Archives [Digital Repository Utilities](https://github.com/SFU-Archives/digital-repository-utilities) site.
+
+The Archives' desktop computers run on Mac OS and all utilities must be able to run in that environment. Archivematica and AtoM are installed on Linux servers, but the user interface is web-based and OS-neutral.
 
 **Microsoft Exchange / Outlook**
 - The current platform for SFU's email system ([SFU Mail](https://www.sfu.ca/sfumail.html)).
@@ -26,7 +28,7 @@ This section provides a brief overview of the software programs and utilities us
 - Used by Archives as the main transfer mechanism, exporting email from a target SFU account.
 - Outputs email in `maildir` format.
 
-**ClamAV**
+**[ClamAV](https://github.com/SFU-Archives/digital-repository-utilities/blob/master/utilities/clamav.md)**
 - [Open-source anti-virus utility](https://www.clamav.net).
 - Used by Archives to scan transferred email (`maildir`) for viruses and malware.
 
@@ -40,7 +42,6 @@ This section provides a brief overview of the software programs and utilities us
 - Archives' custom in-house FileMaker database.
 - Used to accession email transfers and register AIPs.
 
-**AIP and DIP retrieval scripts**
-- Custom scripts to download AIPs and DIPs in order to verify successful ingest and support researcher access.
+***
 
-###### Last updated: Jul 21, 2020
+###### Last updated: Apr 20, 2022
