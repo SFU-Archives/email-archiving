@@ -6,6 +6,7 @@ This site contains documentation relating to SFU Archives' processes for email a
 - [Email Archiving at SFU](overview/email-archiving-at-sfu.md)
 - [Software](overview/software.md)
 - [Formats](overview/formats.md)
+- [Transfer Workflow](overview/transfer-workflow.md)
 
 ## Transfer Procedures for Account Owners
 - [Overview](account-owners/overview.md)
@@ -13,6 +14,7 @@ This site contains documentation relating to SFU Archives' processes for email a
 - [Gmail Accounts](account-owners/transfer-procedures-for-gmail.md)
 
 ## Transfer Workflow for Archivists
+- Overview
 - Pre-Transfer
 - Transfer
 - Validation
@@ -23,9 +25,7 @@ This site contains documentation relating to SFU Archives' processes for email a
 
 ## Access
 
-***
-
-###### Last updated: Apr 20, 2022
+###### Last updated: Apr 21, 2022
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
