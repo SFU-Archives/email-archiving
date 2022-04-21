@@ -5,7 +5,7 @@
 
 The page outlines in brief the workflow for transfers of SFU email. For more detail (from the archivist's point of view), see the section on [Transfer Workflow](../archivist-workflow/overview.md).
 
-![Workflow diagram](../images/workflow.png)
+![Workflow diagram](../images/transfer-workflow.png)
 
 1. Gain access to the target email via permissions to a shared transfer folder in the owner's account (active accounts); or temporary ownership of an entire account (inactive accounts).
 1. Use OfflineImap to export email from the target account / folder as `maildir`.
@@ -31,4 +31,4 @@ If / when this isssue is addressed in ePADD, the Archives will retroactively gen
 
 <br clear="both">
 
-###### Last updated: Jul 22, 2020
+###### Last updated: Apr 21, 2022
