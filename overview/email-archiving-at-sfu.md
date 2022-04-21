@@ -1,4 +1,4 @@
-###### [Email Archiving](./README.md)
+###### [Email Archiving](../README.md)
 ###### Email Archiving at SFU `|` [Software](software.md) `|` [Formats](formats.md)
 
 # Email Archiving at SFU
