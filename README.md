@@ -14,7 +14,7 @@ This site contains documentation relating to SFU Archives' processes for email a
 - [Gmail Accounts](account-owners/transfer-procedures-for-gmail.md)
 
 ## Transfer Workflow for Archivists
-- Overview
+- [Overview](archivists/overview.md)
 - Pre-Transfer
 - Transfer
 - Validation

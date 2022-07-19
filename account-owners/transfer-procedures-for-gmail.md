@@ -1,5 +1,5 @@
 ###### [Email Archiving](../../README.md) > Transfer Procedures for Account Owners
-###### [Overview](overview.md) `|` [SFU accounts](sfu-accounts.md) `|` Gmail accounts
+###### [Overview](overview.md) `|` [SFU accounts](transfer-procedures-for-sfu-email.md) `|` Gmail accounts
 
 # Transfer Procedures for Gmail Accounts
 The Archives can accept non-SFU email in certain circumstances under the terms of a Donation Agreement. But non-SFU email must be transferred in `mbox` format or in a format that we can convert into `mbox` (see [Formats](../overview/formats.md)). **Gmail** can be readily exported by users themselves in `mbox` form.
