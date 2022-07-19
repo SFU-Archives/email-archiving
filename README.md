@@ -18,8 +18,15 @@ This site contains documentation relating to SFU Archives' processes for email a
 - Pre-Transfer
 - Transfer
 - Validation
+- Appraisal and Selection
 - Ingest
 - Completion
+
+## Appraisal
+- Overview
+- Account-level Appraisal
+- Folder-level Appraisal
+- Message-level Appraisal
 
 ## Arrangement and Description
 
