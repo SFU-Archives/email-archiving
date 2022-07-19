@@ -2,17 +2,29 @@
 ###### [1. Before you start](./01-before-you-start.md) `|` 2. SFU accounts `|` [3. Non-SFU accounts](./03-non-sfu-accounts.md) `|` [4. After transfer](./04-after-transfer.md) `|` [5. Checklist](./05-checklist.md)
 
 # 2. SFU email accounts
-This section describes how to transfer email from an SFU account.
+This section describes how to transfer email from an SFU account. In the [Workflow Diagram](images/transfer-workflow.png), see the actions in the the `Producer` column.
 
 **Contents**
-- [2.1 Set up a transfer folder](#21-set-up-a-transfer-folder)
-- [2.2 Add permissions to the Inbox](#22-add-permissions-to-the-inbox)
-- [2.3 Add permissions to the transfer folder(s)](#23-add-permissions-to-the-transfer-folders)
-- [2.4 Validate transfer](#24-validate-transfer)
-- [2.5 Remove permissions](#25-remove-permissions)
+- [Initiate request to transfer](#initiate-request-to-transfer)
+- [Determine scope of transfer](#determine-scope-of-transfer)
+- [Create a Transfer Folder](#create-a-transfer-folder)
+- [Notify Archives Transfer Folder ready](#notify-archives-transfer-folder-ready)
+- [Provide consent](#provide-consent)
 
-## 2.1 Set up a transfer folder
-<img align="right" width="350" src="../../images/transfer-folder.png">
+## Initiate request to transfer
+
+
+## Determine scope of transfer
+
+
+## Create a Transfer Folder
+
+
+## Notify Archives Transfer Folder ready
+
+
+## Provide consent
+
 
 The Archives need access to a shared folder in your account in order to transfer email. The Archives works on Mac computers, and Outlook for Mac requires shared folders to be nested under the owner's `Inbox`.
 
