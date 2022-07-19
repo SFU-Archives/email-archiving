@@ -1,4 +1,4 @@
-###### [Email Archiving](../../README.md) > Transfer Procedures for Account Owners
+###### [Email Archiving](../README.md) > Transfer Procedures for Account Owners
 ###### [Overview](overview.md) `|` [SFU accounts](transfer-procedures-for-sfu-email.md) `|` Gmail accounts
 
 # Transfer Procedures for Gmail Accounts

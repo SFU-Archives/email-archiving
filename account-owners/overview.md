@@ -1,4 +1,4 @@
-###### [Email Archiving](../../README.md) > Transfer Procedures for Account Owners
+###### [Email Archiving](../README.md) > Transfer Procedures for Account Owners
 ###### Overview `|` [SFU accounts](transfer-procedures-for-sfu-accounts.md) `|` [Gmail accounts](transfer-procedures-for-gmail.md)
 
 # Transfer Procedures for Account Owners: Overview
@@ -7,7 +7,7 @@
 - [What email can be transfered?](#what-email-can-be-transferred)
 - [Implications of transfer](#implications-of-transfer)
 - [Transfer procedures](#transfer-procedures)
- - [Procedures for SFU email](transfer-procedures-for-sfu-email.md).
+ - [Procedures for SFU email](transfer-procedures-for-sfu-email.md)
  - [Procedures for Gmail](transfer-procedures-for-gmail.md)
 
 ## What email can be transferred?
@@ -18,10 +18,12 @@ In general:
 
 - Emails made or received as personal correspondence may be transferred to the Archives under a [Donation Agreement](http://www.sfu.ca/archives/for-donors/donations.html).
 
+- Faculty members' emails relating to research or teaching materials are personal correspondence.
+
 An archivist will advise you on how to proceed. Note that the transfer process currently captures only email messages and attachments; it **does not** capture other records typically included in email platforms, e.g. calendars, address books, task lists.
 
 ## Implications of transfer
-Please be aware of the implications of transferring your email to Archives. It is not a service to provide you with ongoing access to your own email. Rather you are making a transfer or donation of records to the Archives that we will preserve and manage for the use of future researchers as a historical resource.
+Please be aware of the implications of transferring your email to Archives. It is not a service to provide you with ongoing access to your own email. Rather you are making a transfer or donation of records to the Archives that we will preserve and manage for the use of future SFU administrators and researchers as an historical resource.
 
 Email transferred to Archives is stored offline, outside any active email system. Once you delete it from your active account you not be able to access it through SFU Mail. Currently the Archives provides only offline access to historical email collections through software (ePADD) installed on a dedicated terminal in the Archives reading room.
 
@@ -29,9 +31,9 @@ Email transferred to Archives is stored offline, outside any active email system
 
 ## Transfer procedures
 Transfer procedures are different depending on whether you are transferring SFU or non-SFU email. At present, the only non-SFU email the Archives has acquired is Gmail.
-- [Procedures for SFU email](transfer-procedures-for-sfu-email.md).
+- [Procedures for SFU email](transfer-procedures-for-sfu-email.md)
 - [Procedures for Gmail](transfer-procedures-for-gmail.md)
 
 ***
 
-###### Last updated: Jul 18, 2022
+###### Last updated: Jul 19, 2022
