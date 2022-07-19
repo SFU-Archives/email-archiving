@@ -7,8 +7,8 @@
 - [What email can be transfered?](#what-email-can-be-transferred)
 - [Implications of transfer](#implications-of-transfer)
 - [Transfer procedures](#transfer-procedures)
-  - [Procedures for SFU email](transfer-procedures-for-sfu-email.md)
-  - [Procedures for Gmail](transfer-procedures-for-gmail.md)
+    - [Procedures for SFU email](transfer-procedures-for-sfu-email.md)
+    - [Procedures for Gmail](transfer-procedures-for-gmail.md)
 
 ## What email can be transferred?
 SFU Archives is selective in its acquisition of email: not all email can or should be permanently preserved. Consult with an archivist to determine whether or not your email is suitable for long-term preservation and if so, which parts of it.
