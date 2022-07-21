@@ -2,13 +2,17 @@
 ###### [Overview](overview.md) `|` A. Pre-transfer `|` [B. Transfer](b-transfer.md) `|` [C. Validation](c-validation.md) `|` [D. Appraisal](d-appraisal.md) `|` [E. Ingest](e-ingest.md) `|` [F. Completion](f-completion.md)
 
 # A. Pre-Transfer
-During the **Pre-transfer phase** an archivist consults with an account-holder ("producer") in order to determine whether or not to begin an email transfer project. If yes, the archivist creates an `Accession record` in the AIS and submits a service request ticket with SFU IT Services to copy the email to a dedicated Archives' transfer account.
+During the **pre-transfer phase** an archivist consults with an account-holder ("producer") in order to determine whether or not to begin an email transfer project. If yes, the archivist creates an `Accession record` in the AIS and submits a service request ticket with SFU IT Services to copy the email to a dedicated Archives' transfer account.
 - See the Archives' internal wiki for details of transfer account name and ITS contact email address.
 
 ## Contents
-- [Initiate transfer](#initiate-transfer.md)
-- [Accept or reject transfer](#accept-or-reject-transfer.md)
-- [Determine scope](#determine-scope.md)
+- [Initiate transfer](#initiate-transfer)
+- [Accept or reject transfer](#accept-or-reject-transfer)
+- [Determine scope](#determine-scope)
+- [Create Accession record](#create-accession-record)
+- [Prepare the Archives' transfer account](#prepare-the-archives-transfer-account)
+- [Send consent request to producer](#sent-consent-request-to-producer)
+- [Send transfer request to ITS](#send-transfer-request-to-its)
 
 ## Initiate transfer
 [Workflow Diagram, steps A1-A3](../images/transfer-workflow.png)
