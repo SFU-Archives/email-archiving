@@ -1,8 +1,8 @@
 ###### [Email Archiving](../README.md) > Transfer Workflow for Archivists
-###### [Overview](overview.md) `|` [A. Pre-transfer](a-pre-transfer.md) `|` [B. Transfer](b-transfer.md) `|` [C. Validation](c-validation.md) `|` [D. Appraisal](d-appraisal.md) `|` [E. Ingest](e-ingest.md) `|` [F. Completion](f-completion.md)
+###### [Overview](overview.md) `|` A. Pre-transfer `|` [B. Transfer](b-transfer.md) `|` [C. Validation](c-validation.md) `|` [D. Appraisal](d-appraisal.md) `|` [E. Ingest](e-ingest.md) `|` [F. Completion](f-completion.md)
 
 # A. Pre-Transfer
-**Pre-transfer** is the first phase of the transfer process during which an archivist consults with an account-holder (`producer`) in order to determine whether or not to accept a transfer of email. If yes, the archivist creates an `Accession record` and creates a service request ticket with SFU IT Services to copy the email to a dedicated Archives' transfer account.
+**Pre-transfer** is the first phase of the transfer process during which an archivist consults with an account-holder (`producer`) in order to determine whether or not to begin an email transfer project. If yes, the archivist creates an `Accession record` and creates a service request ticket with SFU IT Services to copy the email to a dedicated Archives' transfer account.
 
 ## Contents
 - [Initiate transfer](#initiate-transfer.md)
@@ -12,7 +12,7 @@
 ## Initiate transfer
 [Workflow Diagram, steps A1-A3](../images/transfer-workflow.png)
 
-SFU Archives does not at present have a formal email acquisition strategy. To date (Jul 2022), the Archives has acquired email from nine accounts. Most of these transfers were initiated in ad hoc fashion, at the request of the producer or their estate, or at the Archives' request when we became aware of the retirement or passing away of a senior administrator.
+SFU Archives does not at present have a formal email acquisition strategy. To date (Jul 2022), the Archives has acquired email from nine accounts. Most of these transfers were triggered in ad hoc fashion, either at the request of the producer or their estate or on the Archives' initiative when we became aware of the retirement or passing away of a senior administrator.
 
 However initiated, at this stage an archivist consults with the account holder, their estate, or other senior administrators to determine the suitability of the email for long-term preservation.
 
@@ -25,13 +25,45 @@ The archivist decides to accept or reject the proposed transfer. For selection c
 ## Determine scope
 [Workflow Diagram, steps A6](../images/transfer-workflow.png)
 
+The Archives may acquire an entire account or just part of it.
+
+- Typically the Archives targets specific folders when the account will continue to be **active** following transfer (e.g. the email creator is retiring but will continue to use the account).
+
+- The Archives may acquire an account if it is **inactive** and it is not possible for the `producer` to access the account or undertake selection (e.g. the email creator has left the university or passed away).
+
+If scope = partial:
+
+- Advise the `producer` about the type of emails that should be transferred (see the Archives' guidelines on Email Management Best Practices, especially the section on Retention and Disposition of Email).
+
+- The `producer` must create a `Transfer Folder`, move all messages and folders for transfer to it, and notify the Archives will the `Transfer Folder` is ready.
 
 ## Create Accession record
 [Workflow Diagram, steps A9](../images/transfer-workflow.png)
 
+In the AIS, create a new `Accession` record:
+
+- Open the AIS **Archives Module** and navigate to the **Home > Accessions** tab.
+
+- Click the `+ New accession` button.
+
+- Complete fields on the **Data Entry** screen.
+
+- On the **Methods** tab, `Transfer method` = "Network transfer".
 
 ## Clear Archives transfer account
 [Workflow Diagram, steps A10](../images/transfer-workflow.png)
+
+Transfer takes place by ITS making a copy of the producer's `Transfer Folder` to the Archives' sponsored account dedicated to email transfer.
+
+- Do not process transfers from multiple accounts at the same time: **you should only process one transfer at a time through the account, therefore it must be cleared before starting the transfer.**
+
+- The rationale for this is that it is easier to use the OfflineImap tool on the entire transfer account rather than on specific folders within it.
+
+Open the Archives' transfer account in Microsoft Office.
+
+- There may be some administrative or mail-list messages, e.g. sent to all sponsored accounts; delete these.
+
+- Ensure that any messages belonging
 
 
 ## Send request to ITS to copy transfer
@@ -42,11 +74,7 @@ The archivist decides to accept or reject the proposed transfer. For selection c
 
 - **If you are taking the whole account** (i.e. all its folders), start at [section 2, Transfer an entire SFU account](./02-transfer-account.md).
 
-- Typically the Archives targets specific folders when the account will continue to be **active** following transfer (e.g. the email creator is retiring but will continue to use the account).
 
-- Typically the Archives acquires an account if it is **inactive** (e.g. the email creator has passed away).
-
-- But there may be circumstances where you do want to take an entire active account or just particular folders from an inactive one.
 
 
 
