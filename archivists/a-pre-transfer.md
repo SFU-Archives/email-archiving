@@ -28,7 +28,7 @@ The archivist decides to accept or reject the proposed transfer. For selection c
 - If a transfer is rejected, the archivist should communicate this decision in writing to the producer and document the rationale in an appraisal report.
 
 ## Determine scope
-[Workflow Diagram, steps A6](../images/transfer-workflow.png)
+[Workflow Diagram, steps A6-9](../images/transfer-workflow.png)
 
 The Archives may acquire an entire account or just part of it.
 
@@ -43,7 +43,7 @@ If scope = partial:
 - The producer must create a `Transfer Folder` in the `Inbox` of their account, move all messages and folders for transfer to it, and notify the Archives when the `Transfer Folder` is ready.
 
 ## Create Accession record
-[Workflow Diagram, steps A9](../images/transfer-workflow.png)
+[Workflow Diagram, steps A10](../images/transfer-workflow.png)
 
 In the AIS, create a new `Accession` record:
 
@@ -56,7 +56,7 @@ In the AIS, create a new `Accession` record:
 - On the **Methods** tab, `Transfer method` = "Network transfer".
 
 ## Prepare the Archives' transfer account
-[Workflow Diagram, steps A10](../images/transfer-workflow.png)
+[Workflow Diagram, steps A11](../images/transfer-workflow.png)
 
 Transfer takes place by ITS making a copy of the producer's `Transfer Folder` to the Archives' sponsored account dedicated to email transfer.
 
@@ -75,7 +75,7 @@ Open the Archives' transfer account in Microsoft Office.
 - Create a new `Transfer Folder` using the `Accession number`, e.g. `ACN2022-045_LastName`.
 
 ## Send consent request to producer
-[Workflow Diagram, steps A11](../images/transfer-workflow.png)
+[Workflow Diagram, steps A12-13](../images/transfer-workflow.png)
 
 Send an email to the producer summarizing the details of the transfer and request them to reply to signal their consent. Attach the [Information for Account Holders pdf document](/downloads/information-for-account-holders.pdf).
 
@@ -84,7 +84,7 @@ Send an email to the producer summarizing the details of the transfer and reques
 - The producer should reply back with a simple "I consent to this transfer of my email" and include their email signature if they use one.
 
 ## Send transfer request to ITS
-[Workflow Diagram, steps A11](../images/transfer-workflow.png)
+[Workflow Diagram, steps A14-15](../images/transfer-workflow.png)
 
 When you receive the consent email reply, send an email to the ITS contact to start a service ticket to make a copy of the `Transfer Folder` from the producer's account to the Archives' transfer account.
 
