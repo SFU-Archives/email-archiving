@@ -11,13 +11,13 @@ During the **pre-transfer phase** an archivist consults with an account-holder (
 - [Determine scope](#determine-scope)
 - [Create Accession record](#create-accession-record)
 - [Prepare the Archives' transfer account](#prepare-the-archives-transfer-account)
-- [Send consent request to producer](#sent-consent-request-to-producer)
+- [Send consent request to producer](#send-consent-request-to-producer)
 - [Send transfer request to ITS](#send-transfer-request-to-its)
 
 ## Initiate transfer
 [Workflow Diagram, steps A1-A3](../images/transfer-workflow.png)
 
-At present, most email transfers are triggered in ad hoc fashion, either at the request of the producer (or their estate) or on the Archives' initiative when we became aware of the retirement or passing away of a faculty members or senior administrator.
+At present, most email transfers are triggered in ad hoc fashion, either at the request of the producer (or their estate) or on the Archives' initiative when we became aware of the retirement or passing away of a faculty member or senior administrator.
 
 However initiated, at this stage an archivist consults with the account holder, their estate, or other senior administrators to determine the suitability of the email for long-term preservation.
 
@@ -38,7 +38,7 @@ The Archives may acquire an entire account or just part of it.
 
 If scope = partial:
 
-- Advise the producer about the type of emails that should be transferred (see the Archives' guidelines on [Email Management Best Practices](https://www.sfu.ca/content/dam/sfu/archives/PDFs/RecordsManagement/GLD058_EmailManagementBestPractices_v1.0.pdf), especially the section on Retention and Disposition of Email).
+- Advise the producer about the types of email that should be transferred (see the Archives' guidelines on [Email Management Best Practices](https://www.sfu.ca/content/dam/sfu/archives/PDFs/RecordsManagement/GLD058_EmailManagementBestPractices_v1.0.pdf), especially the section on Retention and Disposition of Email).
 
 - The producer must create a `Transfer Folder` in the `Inbox` of their account, move all messages and folders for transfer to it, and notify the Archives when the `Transfer Folder` is ready.
 
@@ -62,13 +62,13 @@ Transfer takes place by ITS making a copy of the producer's `Transfer Folder` to
 
 Always keep the Archives' transfer account empty between transfers.
 
-- It is generally better to process one transfer at a time through the account; this way, you can use the OfflineImap tool on the entire transfer account rather than on specific folders within it (the latter is more cumbersome).
+- It is generally better to process one transfer at a time through the account; this way, you can use the [OfflineImap tool](../overview/software.md#OfflineImap) on the entire transfer account rather than on specific folders within it (the latter is more cumbersome).
 
 - It is possible (but not preferred) to work on multiple transfers in the account at the same time, but make sure they are in separate top-level folders.
 
 Open the Archives' transfer account in Microsoft Office.
 
-- There may be some administrative or mail-list messages, e.g. notices that the sponsored is due for renewal; delete these.
+- There may be some administrative or mail-list messages, e.g. notices that the sponsored account is due for renewal; delete these.
 
 - If there any messages belonging to previous transfers, ensure that those transfers have really been completed; if yes, delete.
 
