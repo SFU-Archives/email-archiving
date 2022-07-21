@@ -1,0 +1,32 @@
+<<PRODUCER_NAME>>,
+
+This email is to confirm your request to transfer email to SFU Archives. Please review the transfer details given below and reply to this email to signify your consent to the transfer.
+- In your reply simply state "I consent to this transfer of my email."
+- Include your email signature block (if applicable) in your reply message.
+
+On receipt of your reply, the Archives will forward this request to SFU IT Services to initiate transfer. The Archives will send you a further notice when transfer is complete.
+
+Please also review the information about the transfer process attached to this email.
+
+Thanks,
+<<ARCHIVIST_NAME>>
+
+***********************************
+Email Transfer Details
+
+Email to be transferred:
+Target Account:  <<ACCOUNT_NAME>>
+Scope of Transfer:  Folder + sub-folders OR Entire account
+Target Folder: <<PRODUCER_TRANSFER_FOLDER_NAME>> [if scope = folder]
+
+Account holder contact details:
+Name: <<PRODUCER_NAME>>
+Department: <<DEPARTMENT_NAME>>
+Email: <<FULL_EMAIL_ADDRESS>
+Telephone: <<TELEPHONE_NUMBER>>
+
+Archives contact:
+Name: <<ARCHIVIST>>
+Position: <<JOB_TITLE>>
+Email: <<EMAIL_ADDRESS>
+Telephone: <<TELEPHONE_NUMBER>>

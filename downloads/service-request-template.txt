@@ -1,0 +1,15 @@
+Hello,
+
+This is to request transfer of email from a <<PRODUCER_ROLE>> (<<PRODUCER_NAME>> cc'd) to the University Archives.
+
+The transfer is for a folder (+ all sub-folders) in <<PRODUCER_NAME>>'s current account:
+
+Account: <<ACCOUNT_NAME>>
+Folder: <<TRANSFER_FOLDER_NAME>>
+
+Please copy to:
+Account: <<ARCHIVES_TRANSFER_ACCOUNT>>
+Folder: <<ARCHIVES_TRANSFER_FOLDER>>
+
+Thank you,
+<<ARCHIVIST>>

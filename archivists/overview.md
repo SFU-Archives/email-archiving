@@ -6,11 +6,11 @@ The following pages provide guidance for SFU Archives' staff who process email t
 
 The workflow mainly focuses on transfers of email from SFU accounts.
 
-For **non-SFU accounts**, email must be delivered to Archives in `mbox` format or in other formats that can be readily converted to `mbox` (see the discussion in [Formats](overview/formats.md) for more information). It can be transferred following the Archives' standard digital transfer procedures. Some content here, however will still be relevant to non-SFU email:
-- Conversion to mbox.
-- Virus-scan.
-- Ingest to Archivematica.
-- Completion of transfer.
+For **non-SFU accounts**, email must be delivered to Archives in `mbox` format or in other formats that can be readily converted to `mbox` (see the discussion in [Formats](overview/formats.md) for more information). Non-SFU email can be transferred following the Archives' standard digital transfer procedures. Some content here, however, will still be relevant to non-SFU email:
+- Conversion to mbox
+- Virus-scan
+- Ingest to Archivematica
+- Completion of transfer
 
 ## Contents
 [A. Pre-transfer](a-pre-transfer.md)
@@ -28,7 +28,7 @@ For **non-SFU accounts**, email must be delivered to Archives in `mbox` format o
 ## Download
 [Download entire document as a pdf](../downloads/email-transfer-archives.pdf)
 
-###### Last updated: Jul 20, 2022
+###### Last updated: Jul 21, 2022
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
