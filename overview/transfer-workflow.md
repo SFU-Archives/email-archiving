@@ -7,22 +7,22 @@ The page outlines in brief the workflow for transfers of SFU email. For more det
 ![Workflow diagram](../images/transfer-workflow.png)
 
 ### [Pre-transfer](../archivists/transfer.md)
-The account owner ("producer") and archivist negotiate transfer agreement and determine the scope of transfer (entire account or specific folders). The producer prepares a `Transfer Folder`, the archivist submits a service request ticke to SFU IT Services (ITS).
+Negotiate a transfer agreement with an account owner ("producer") and determine the scope of transfer (entire account or specific folders). The producer prepares a `Transfer Folder`, the archivist submits a service request ticke to SFU IT Services (ITS).
 
-### Transfer
-ITS makes a copy of the targeted email `Transfer Folder` and copies it to a dedicated email account controlled by the Archives. The archivist uses OfflineImap to export the messages + attachments as `maildir`, runs a virus scan, then converts the `maildir` to `mbox` format.
+### [Transfer](../archivists/transfer.md)
+Receive a copy of the targeted email `Transfer Folder` from ITS into the Archives' dedicated email account; use OfflineImap to export the messages + attachments as `maildir`, run a virus scan, then convert the `maildir` to `mbox` format.
 
 ### Validation
-The archivist opens the `mbox` files in Thunderbird or Mac's Mail email client to get a count of messages transferred and compares this against the number of messages in the transfer account in SFU Mail.
+Determine whether transfer / export / conversion was successful (no data lost) by comparing message counts in the transfer account in SFU Mail vs. the `mbox` files when opened in Thunderbird or Mac's Mail email client; generate a tree-view of the folder directory structure.
 
 ### Appraisal
-Where feasible, the archivist undertakes a folder-level appraisal, documents appraisal decisions and eliminates folders not selected for long-term preservations.
+Where feasible, conduct folder-level appraisal, document appraisal decisions and eliminate folders not selected for long-term preservation.
 
 ### Ingest
-The archivist re-exports the appraisal email as `maildir`, converts to `mbox`, uploads the `transfer package` to the staging server on SFU Cloud, processes through Archivematica as a "backlog AIP", and registers the AIP in the AIS database.
+Re-export appraised / selected email, convert to `mbox`, upload to the staging server, ingest to Archivematica and register the AIP in the AIS database.
 
 ### Completion
-The archivist notifies the account holder that the transfer has been completed, completes the `Accession record`, and deletes all transitory copies from SFU Mail, desktop, and staging server. The account holder receives the completion notice and may now delete the transferred email if desired.
+Notify the producer that the transfer has been completed, finalize the `Accession record`, and delete all transitory copies from SFU Mail, desktop, and staging servers. The producer may now delete the transferred email if desired.
 
 <br clear="both">
 
