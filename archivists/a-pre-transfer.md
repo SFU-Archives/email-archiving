@@ -1,7 +1,7 @@
 ###### [Email Archiving](../README.md) > Transfer Workflow for Archivists
-###### [Overview](overview.md) `|` A. Pre-transfer `|` [B. Transfer](b-transfer.md) `|` [C. Validation](c-validation.md) `|` [D. Appraisal](d-appraisal.md) `|` [E. Ingest](e-ingest.md) `|` [F. Completion](f-completion.md)
+###### [Overview](overview.md) `|` Pre-transfer `|` [Transfer](transfer.md) `|` [Validation](validation.md) `|` [Appraisal](appraisal.md) `|` [Ingest](ingest.md) `|` [Completion](completion.md)
 
-# A. Pre-Transfer
+# Pre-Transfer
 During the **pre-transfer phase** an archivist consults with an account-holder ("producer") in order to determine whether or not to begin an email transfer project. If yes, the archivist creates an `Accession record` in the AIS and submits a service request ticket with SFU IT Services to copy the email to a dedicated Archives' transfer account.
 - See the Archives' internal wiki for details of transfer account name and ITS contact email address.
 

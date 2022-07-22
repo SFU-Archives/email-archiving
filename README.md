@@ -15,8 +15,8 @@ This site contains documentation relating to SFU Archives' processes for email a
 
 ## Transfer Workflow for Archivists
 - [Overview](archivists/overview.md)
-- Pre-Transfer
-- Transfer
+- [Pre-Transfer](archivists/pre-transfer.md)
+- [Transfer](archivists/transfer.md)
 - Validation
 - Appraisal and Selection
 - Ingest
@@ -32,7 +32,7 @@ This site contains documentation relating to SFU Archives' processes for email a
 
 ## Access
 
-###### Last updated: Apr 21, 2022
+###### Last updated: Jul 21, 2022
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 

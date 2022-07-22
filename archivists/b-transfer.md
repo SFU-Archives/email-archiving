@@ -1,5 +1,5 @@
 ###### [Email Archiving](../README.md) > Transfer Workflow for Archivists
-###### [Overview](overview.md) `|` [A. Pre-transfer](a-pre-transfer.md) `|` B. Transfer `|` [C. Validation](c-validation.md) `|` [D. Appraisal](d-appraisal.md) `|` [E. Ingest](e-ingest.md) `|` [F. Completion](f-completion.md)
+###### [Overview](overview.md) `|` [Pre-transfer](pre-transfer.md) `|` Transfer `|` [Validation](validation.md) `|` [Appraisal](appraisal.md) `|` [Ingest](ingest.md) `|` [Completion](completion.md)
 
 # B. Transfer
 During the **transfer phase** SFU IT Services makes a copy of the `Transfer Folder` to the Archives' dedicated email transfer account. An archivist exports the email in `maildir` format, runs virus checks, then converts the `maildir` to `mbox` format.
