@@ -17,7 +17,7 @@ Open-source software for processing historical email collections. Used by Archiv
 
 ### Archivematica
 Open-source software for digital preservation. Used by Archives to create standardized Archival Information Packages (AIPs) for long-term preservation of transferred email.
-- [Archivematica project site](https://www.archivematica.org/en/) for digital preservation.
+- [Archivematica project site](https://www.archivematica.org/en/)
 
 ### AtoM (Access to Memory)
 Open-source software for archival description and access, platform for Archives' online catalog of finding aids, [SFU AtoM](https://atom.archives.sfu.ca). Used by Archives to provide series-level descriptions of email archives in the context of the creator's fonds. For email, SFU AtoM contains descriptions only; access to the actual messages is provided via ePADD.
