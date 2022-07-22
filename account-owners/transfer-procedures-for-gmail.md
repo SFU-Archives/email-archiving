@@ -5,7 +5,7 @@
 The Archives can accept non-SFU email in certain circumstances under the terms of a Donation Agreement. But non-SFU email must be transferred in `mbox` format or in a format that we can convert into `mbox` (see [Formats](../overview/formats.md)). **Gmail** can be readily exported by users themselves in `mbox` form.
 
 ## Export Gmail as mbox
-<img align="right" width = "350" src="../../images/gmail-options.png">
+<img align="right" width = "350" src="../images/gmail-options.png">
 
 Use Google's "takeout service" to export and download your Gmail as `mbox` files.
 
