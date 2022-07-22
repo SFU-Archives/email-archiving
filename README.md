@@ -1,32 +1,38 @@
 # Email Archiving
 
-This site contains documentation relating to SFU Archives' processes for email archiving. It is a work in progress, and some pages here are placeholders for content still in development (marked in the [Contents section](#contents) as "forthcoming").
+This site contains documentation relating to SFU Archives' processes for email archiving. It is a work in progress, and new content will be added as documentation is prepared.
 
-When complete, the site will contain two parts:
+## Overview
+- [Email Archiving at SFU](overview/email-archiving-at-sfu.md)
+- [Software](overview/software.md)
+- [Formats](overview/formats.md)
+- [Transfer Workflow](overview/transfer-workflow.md)
 
-[Transfer procedures](./transfer-procedures/transfer-home.md) provide detailed, step-by-step instructions for transferring email; there are separate guides for [account owners](./transfer-procedures/account-owners/00-introduction.md) and [SFU archivists](./transfer-procedures/archives/00-introduction.md) respectively. Each contains a checklist that offers a quick overview of the process.
+## Transfer Procedures for Account Owners
+- [Overview](account-owners/overview.md)
+- [SFU Accounts](account-owners/transfer-procedures-for-sfu-email.md)
+- [Gmail Accounts](account-owners/transfer-procedures-for-gmail.md)
 
-The [Guide for Email Archives](./guide/00-introduction.md) offers a broader discussion of SFU Archives' approach, covering the management lifecycle from acquisition to preservation and access.
+## Transfer Workflow for Archivists
+- [Overview](archivists/overview.md)
+- Pre-Transfer
+- Transfer
+- Validation
+- Appraisal and Selection
+- Ingest
+- Completion
 
-## Contents
+## Appraisal
+- Overview
+- Account-level Appraisal
+- Folder-level Appraisal
+- Message-level Appraisal
 
-[Transfer Procedures](./transfer-procedures/transfer-home.md)
-- [Procedures for Account Owners](./transfer-procedures/account-owners/00-introduction.md)
-- [Procedures for SFU Archivists (forthcoming)]
+## Arrangement and Description
 
-[Guide for Email Archives](./guide/00-introduction.md)
-- [1. Software](./guide/01-software.md)
-- [2. Formats](./guide/02-formats.md)
-- [3. Workflow](./guide/03-workflow.md)
-- [4. Acquisition](./guide/04-acquisition.md)
-- [5. Transfer Methods](./guide/05-transfer-methods.md)
-- [6. Validation and Accessioning](./guide/06-accessioning.md)
-- [7. Appraisal and Selection (forthcoming)]
-- [8. Arrangement and Description (forthcoming)]
-- [9. Preservation (forthcoming)]
-- [10. Access (forthcoming)]
+## Access
 
-###### Last updated: Aug 13, 2020
+###### Last updated: Apr 21, 2022
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 

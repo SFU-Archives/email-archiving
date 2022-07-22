@@ -1,0 +1,21 @@
+[general]
+metadata = ~/offlineimap/metadata
+accounts = SFU
+
+[Account SFU]
+localrepository = LocalMaildir
+remoterepository = RemoteSFUIMAP
+
+[Repository LocalMaildir]
+type = Maildir
+localfolders = <<path/to/maildir/output/folder/>>
+sep = /
+
+[Repository RemoteSFUIMAP]
+type = IMAP
+remotehost = <<SFU-mail-server-address>>
+remoteuser = <<Archives-transfer-account-name>>
+remotepass = <<*******>>
+folderfilter = lambda folder: folder in ['folder1', 'folder1/folder2']
+readonly = yes
+sslcacertfile = /usr/local/etc/openssl/cert.pem

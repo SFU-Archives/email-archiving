@@ -1,19 +1,17 @@
-###### [Email Archiving](../README.md) > [Guide](./00-introduction.md)
-###### [1. Software](./01-software.md) `|` 2. Formats `|` [3. Workflow](./03-workflow.md) `|` [4. Acquisition](./04-acquisition.md) `|` [5. Transfer methods](./05-transfer-methods.md) `|` [6. Validation and accessioning](./06-accessioning.md) `|` [7. Appraisal and selection](./07-appraisal-selection.md) `|` [8. Arrangement and description](./08-arrangement-description.md) `|` [9. Preservation](./09-preservation.md) | [10. Access](./10-access.md)
+###### [Email Archiving](../README.md)
+###### [Email Archiving at SFU](email-archiving-at-sfu.md) `|` [Software](software.md) `|` Formats `|` [Transfer Workflow](transfer-workflow.md)
 
-# 2. Formats
-
-###### Status: under development
+# Email Archiving: Formats
 
 **Contents**
-- [2.1 Preferred formats](#21-preferred-formats)
-- [2.2 SFU email platform](#22-sfu-email-platform)
-- [2.3 Mbox](#23-mbox)
-- [2.4 Maildir](#24-maildir)
-- [2.5 ePADD](#25-epadd)
-- [2.6 Attachments](#26-attachments)
+- [Preferred formats](#preferred-formats)
+- [SFU email platform](#sfu-email-platform)
+- [Mbox](#mbox)
+- [Maildir](#maildir)
+- [ePADD](#epadd)
+- [Attachments](#attachments)
 
-## 2.1 Preferred formats
+## Preferred formats
 <img align="right" width="500" src="../images/email-formats.png">
 
 The Archives' preferred formats for managing email are:
@@ -25,10 +23,10 @@ The Archives' preferred formats for managing email are:
 <br clear="both">
 <p></p>
 
-## 2.2 SFU email platform
+## SFU email platform
 The university's email system ([SFU Mail](https://www.sfu.ca/sfumail.html)) runs on Microsoft Exchange (server) and Outlook (client). SFU switched to Microsoft for email in 2018. From 2009-2018 the university used the [Zimbra Collaboration Suite](https://www.zimbra.com) as [SFU Connect](https://www.sfu.ca/content/sfu/itservices/sfuconnect.html), and the Archives' first email transfers were from the Zimbra system.
 
-## 2.3 Mbox
+## Mbox
 `mbox` originated with the Unix operating system as a format for storing email messages, and there are several variants within the `mbox` family. In 2005 the Internet Engineering Task Force ([IETF](https://www.ietf.org)) defined a standard `application/mbox` media type ([RFC4155](https://tools.ietf.org/html/rfc4155)), and `mbox` has become a defacto standard for moving email between different email systems and clients.
 
 A single `mbox` file represents a folder and its contents in an email system.
@@ -44,19 +42,21 @@ While some email systems may be able to natively export to `mbox` (e.g. Gmail), 
 
 In general, for a format to be acceptable for transfer to SFU Archives, there must be a tool that allows conversion to `mbox`.
 
-## 2.4 Maildir
-Like `mbox`, `maildir` is also an email storage format that represents email messages (header, body, attachments) as text files, with attachments encoded as Base64 ASCII. But where `mbox` aggregates all messages from the same mailbox into a single file, `maildir` stores each individual email message (plus attachments) as its own separate text file.
+## Maildir
+Like `mbox`, `maildir` is an email storage format that represents email messages (header, body, attachments) as text files, with attachments encoded as Base64 ASCII. But where `mbox` aggregates all messages from the same mailbox into a single file, `maildir` stores each individual email message (plus attachments) as its own separate text file.
 
-`mbox` appears to be more widely used, perhaps because it can store the same amount of email in a much smaller number of files. But the Archives' main export / transfer tool, OfflineImap, outputs only to `maildir`. For the Archives, `maildir` is intermediary **transfer format**. We use a Python script to convert it to `mbox` for ingest, and we do not retain the `maildir` copy once ingest is complete.
+The granularity of `maildir` gives it some advantages. Single messages that have been corrupted or infected with malware can be readily isolated from the others in the same mailbox folder.
 
-## 2.5 PST files
+But `mbox` is more widely used, and for the Archives `maildir` is intermediary **transfer format**. Our transer / export tool (`OfflineImap`) exports only to `maildir`. We use a Python script to convert output to `mbox` for ingest, and we do not retain the `maildir` copy once ingest is complete.
+
+## PST files
 `pst` (Personal Storage Table) files are a Microsoft-specific format for storing copies of email messages and attachments, but also calendar events, tasks, and contacts. SFU Archives has not acquired `pst` files and it is a non-preferred format.
 
-Our initial analysis is that `pst` files are typically less complete and reliable than `mbox` and that the tools for migrating them to `mbox` are not always robust. Our preference at the present time is to use `OfflineImap` to export email from Microsoft Exchange / Outlook email systems as `maildir`, then convert the `maildir` to `mbox` by script. But our experience to date with this method is restricted to working with SFU email.
+Our initial analysis is that `pst` files are typically less complete and reliable than `mbox` and that the tools for migrating them to `mbox` are not always robust. The Archives' preference at the present time is to use `OfflineImap` to export email from Microsoft Exchange / Outlook email systems as `maildir`, then convert the `maildir` to `mbox` by script. But our experience to date with this method is restricted to working with SFU email.
 
 There may be circumstances where privately donated materials include `pst` files and this is the only format available. When / if this occurs, the Archives will look more closely into tools for dealing with this format.
 
-## 2.6 ePADD
+## ePADD
 <img align="right" width="500" src="../images/epadd-structure.png">
 
 ePADD software allows an archivist to work on a collection of `mbox` files to appraise, select, and describe email archives. It provides a number of curation features, including support for message annotation and tagging, grouping by correspondent, entity analysis, and management of restrictions.
@@ -75,7 +75,7 @@ Until this is addressed, the Archives will continue to rely on the `mbox` files 
 <br clear="both">
 <p></p>
 
-## 2.7 Attachments
+## Attachments
 Attachments are written to `mbox` files as Base64 ASCII text and in ePADD retained in their original file formats. In both cases, no preservation actions are taken on the files themselves, making them at risk of becoming inaccessible in the future.
 
 The Archives' current strategy is to use ePADD's ability to export attachments to create a standalone package consisting of all email attachments. This is then ingested to Archivematica, with full preservation and access normalization applied to all files.
@@ -84,4 +84,4 @@ One difficulty with this approach is protecting the link between an attachment a
 
 This seems likely to be a cumbersome operation. Moreover, the ePADD-assigned ID numbers will not be present in the preservation `mbox` version. In general, management of attachments is an area requiring more investigation and work.
 
-###### Last updated: Aug 13, 2020
+###### Last updated: Apr 21, 2022
