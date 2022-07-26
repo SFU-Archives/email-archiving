@@ -15,8 +15,8 @@ For **non-SFU accounts**, email must be delivered to Archives in `mbox` format o
 ## Contents
 - [Pre-transfer](pre-transfer.md)
 - [Transfer](transfer.md)
-- Validation
-- Appraisal
+- [Validation](validation.md)
+- [Appraisal](appraisal.md)
 - Ingest
 - Completion
 

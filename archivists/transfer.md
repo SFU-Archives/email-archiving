@@ -8,6 +8,7 @@ During the **transfer phase** SFU IT Services makes a copy of the `Transfer Fold
 
 ## Contents
 - [Receive notice from ITS](#receive-notice-from-its)
+- [Record message counts](#record-message-counts)
 - [Export as maildir](#export-as-maildir)
 - [Check for viruses and malware](#check-for-viruses-and-malware)
 - [Convert maildir to mbox](#convert-maildir-to-mbox)
@@ -17,8 +18,15 @@ During the **transfer phase** SFU IT Services makes a copy of the `Transfer Fold
 
 ITS will make a copy of the producer's `Transfer Folder` to the Archives' transfer account and notify the archivist who submitted the service request ticket when this is complete.
 
+## Record message counts
+[Workflow Diagram, steps B5](../images/transfer-workflow.png)
+
+When you open the Archives' transfer account, the `Transfer Folder` should now appear, with messages flagged as unread.
+- The number of unread messages for each folder will appear in the sidebar list of folders.
+- Record these numbers in a spreadsheet to facilitate comparison with post-export and post-conversion `mbox` files during the [Validation phase](validation.md)
+
 ## Export as maildir
-[Workflow Diagram, step B5](../images/transfer-workflow.png)
+[Workflow Diagram, step B6](../images/transfer-workflow.png)
 
 An archivist runs OfflineImap on the `Transfer Folder` to export all messages and attachments.
 - For installation instructions and more information about this utility, see the OfflineImap page in the Archives' [Digital Repository Utilities GitHub site](https://github.com/SFU-Archives/digital-repository-utilities).
@@ -54,7 +62,7 @@ If you did not include the account password in the `remotepass` flag in the conf
 The utility will export all messages with attachments to the `localfolders` location specified in the config file.
 
 ## Check for viruses and malware
-[Workflow Diagram, steps B6-B8](../images/transfer-workflow.png)
+[Workflow Diagram, steps B7-B10](../images/transfer-workflow.png)
 
 Check for viruses and malware by running ClamAV on the `maildir` output.
 - It is important to do this before converting to `mbox`: with `maildir`, individual infected messages can be deleted, whereas with `mbox` one virus in one message means the whole folder (entire `mbox` file) is compromised.
@@ -81,7 +89,7 @@ If ClamAV turns up infected files, document this in a note to the collection fil
 - You should advise the producer if you find extensive viruses and malware in their email.
 
 ## Convert maildir to mbox
-[Workflow Diagram, step B9](../images/transfer-workflow.png)
+[Workflow Diagram, step B11](../images/transfer-workflow.png)
 
 There are two ways to convert the `maildir` to `mbox`: by customized Python script ([maildir2mbox](#maildir2mbox)); or by using the [Emailchemy app](#emailchemy).
 - The Python script was originally adapted by the Archives ca. 2013; it is free, open-source and runs on command line.
