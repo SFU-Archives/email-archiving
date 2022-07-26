@@ -58,7 +58,7 @@ The utility will export all messages with attachments to the `localfolders` loca
 
 Check for viruses and malware by running ClamAV on the `maildir` output.
 - It is important to do this before converting to `mbox`: with `maildir`, individual infected messages can be deleted, whereas with `mbox` one virus in one message means the whole folder (entire `mbox` file) is compromised.
-- For installation instructions and more information about this utility, see the [ClamAV page] in the Archives' [Digital Repository Utilities GitHub documentation site](https://github.com/SFU-Archives/digital-repository-utilities).
+- For installation instructions and more information about this utility, see the [ClamAV page](https://github.com/SFU-Archives/digital-repository-utilities/blob/master/utilities/clamav.md) in the Archives' [Digital Repository Utilities site](https://github.com/SFU-Archives/digital-repository-utilities).
 
 Open a Terminal window to run ClamAV.
 
