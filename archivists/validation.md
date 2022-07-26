@@ -4,7 +4,7 @@
 # Validation
 <img align="right" width = "450" src="../images/workflow-phaseC.png">
 
-During the **validation phase** the archivist confirms that no data was lost during transfer, export to `maildir` and conversion to `mbox`. There is no easy way to do this. For now, the Archives relies on a comparison between (i) the number of messages in the `Transfer folder` after ITS copies it to the Archives' transfer account and (ii) the number of messages in an email browser (Thunderbird or Mac Mail) after the `mbox` files are loaded.
+During the **validation phase** the archivist confirms that no data was lost during transfer / export / conversion process. There is no easy way to do this. For now, the Archives relies on a comparison between (i) the number of messages in the `Transfer folder` after ITS copies it to the Archives' transfer account and (ii) the number of messages in an email browser (Thunderbird or Mac Mail) after the `mbox` files are loaded.
 
 ## Contents
 - [Load mbox files into an email browser](#load-mbox-files-into-an-email-browser)

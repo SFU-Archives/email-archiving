@@ -4,7 +4,7 @@
 # Validation
 <img align="right" width = "450" src="../images/workflow-phaseD.png">
 
-During the **appraisal phase** the archivist reviews the transferred email and makes folder-level appraisal decisions if these are feasible. Folders not selected for acquisition can be deleted from the Archives' transfer account and the email re-exported.
+During the **appraisal phase** the archivist reviews the transferred email and conducts folder-level appraisal if feasible. The archivist deleted folders appraised for destruct and re-exports and converts the email selected for long-term preservation.
 
 ## Contents
 - [Review / assess transferred email](#review-assess-transferred-email)
