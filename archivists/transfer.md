@@ -91,12 +91,22 @@ There are two ways to convert the `maildir` to `mbox`: by customized Python scri
 ### maildir2mbox script
 Download the script from the shared drive at `ITM002-40 > maildir2mbox > maildir2mbox.py`.
 - The script can be run from any location on your computer.
-- For more
+- For more information about the script (including code), see the [maildir2mbox](https://github.com/SFU-Archives/digital-repository-utilities/blob/master/utilities/maildir2mbox.md) page on the Archives' [Digital Repository Utilities site](https://github.com/SFU-Archives/digital-repository-utilities).
 
 To run, open a Terminal window:
 - `$ python3 <<path/to/script>> <<path/to/maildir/input/folder/>> <<path/to/mbox/output/folder/>>`
 
+The script will save the `mbox` files (1 for each folder in the `maildir` collection) to the location specified in the last argument of the command.
+
 ### Emailchemy
+<img align="right" width = "450" src="../images/emailchemy.png">
 
+Open the Emailchemy app.
+- From the drop-down list (`What kind of email do you want to convert?`) select "Maildir (IMAPdir)" and click `Next`.
+- Use the `Browse` button to the top-level folder containing the `maildir` and click `Next`.
+- Check `Filter duplicate messages`; leave other boxes unchecked and click `Convert`.
+- Enter a folder title and select the location for the `mbox` output and click `Save`.
 
-###### Last updated: Jul 21, 2022
+Emailchemy will save the `mbox` files (1 for each folder of the `maildir` collection) to the location you specified.
+
+###### Last updated: Jul 26, 2022
