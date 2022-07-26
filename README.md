@@ -7,13 +7,15 @@ This site contains documentation relating to SFU Archives' processes for email a
 - [Software](overview/software.md)
 - [Formats](overview/formats.md)
 - [Transfer Workflow](overview/transfer-workflow.md)
+- [Download as PDF](downloads/email-archiving-overview.pdf)
 
 ## Transfer Procedures for Account Owners
 - [Overview](account-owners/overview.md)
 - [SFU Accounts](account-owners/transfer-procedures-for-sfu-email.md)
 - [Gmail Accounts](account-owners/transfer-procedures-for-gmail.md)
+- [Download as PDF](downloads/procedures-account-owners.pdf)
 
-## Transfer Workflow for Archivists
+## Transfer Procedures for Archivists
 - [Overview](archivists/overview.md)
 - [Pre-Transfer](archivists/pre-transfer.md)
 - [Transfer](archivists/transfer.md)
@@ -21,12 +23,14 @@ This site contains documentation relating to SFU Archives' processes for email a
 - Appraisal and Selection
 - Ingest
 - Completion
+- Download as PDF
 
 ## Appraisal
 - Overview
 - Account-level Appraisal
 - Folder-level Appraisal
 - Message-level Appraisal
+- Download as PDF
 
 ## Arrangement and Description
 

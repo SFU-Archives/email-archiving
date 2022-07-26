@@ -34,6 +34,8 @@ Transfer procedures are different depending on whether you are transferring SFU 
 - [Procedures for SFU email](transfer-procedures-for-sfu-email.md)
 - [Procedures for Gmail](transfer-procedures-for-gmail.md)
 
+## Download
+[Download entire document as a pdf](../downloads/procedures-account-owners.pdf)
 ***
 
 ###### Last updated: Jul 19, 2022

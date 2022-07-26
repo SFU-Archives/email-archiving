@@ -26,7 +26,7 @@ For **non-SFU accounts**, email must be delivered to Archives in `mbox` format o
 [Completion](completion.md)
 
 ## Download
-[Download entire document as a pdf](../downloads/email-transfer-archives.pdf)
+Download entire document as a pdf (forthcoming)
 
 ###### Last updated: Jul 21, 2022
 
