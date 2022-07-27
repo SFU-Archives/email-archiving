@@ -19,7 +19,7 @@ During the **transfer phase** SFU IT Services makes a copy of the `Transfer Fold
 ITS will make a copy of the producer's `Transfer Folder` to the Archives' transfer account and notify the archivist who submitted the service request ticket when this is complete.
 
 ## Record message counts
-[Workflow Diagram, steps B5](../images/transfer-workflow.png)
+[Workflow Diagram, step B5](../images/transfer-workflow.png)
 
 When you open the Archives' transfer account, the `Transfer Folder` should now appear, with messages flagged as unread.
 - The number of unread messages for each folder will appear in the sidebar list of folders.

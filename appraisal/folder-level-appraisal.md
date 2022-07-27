@@ -2,15 +2,15 @@
 ###### [Overview](overview.md) `|` [Account-level](account-level-appraisal.md) `|` Folder-level `|` [Message-level](message-level-appraisal.md)
 
 # Folder-Level Appraisal
-**Folder-level appraisal** may be feasible if the producer organized their email with a clear folder structure and was consistent in filing messages. The archivist can determine this by several means:
+**Folder-level appraisal** may be feasible if the producer organized their email with a clear folder structure and was consistent in how they filed messages. The archivist can determine this by several means:
 - Generate and review a tree-view of the directory structure (most easily done from a set of `mbox` files).
-- Meet with the producer to review folders and discuss their email management practices.
+- Meet with the producer to review folders and discuss how they had managed their email.
 - Review and sample individual folders.
 
 Folder-level appraisal can be conducted in SFU Mail after ITS has copied the `Transfer Folder` to the Archives' transfer account and before the final export / conversion to `mbox`. It can also be done later in ePADD, as ePADD preserves the original folder structure in its appraisal and processing modules.
 
 ## Selection criteria
-The goal is to select at the folder level for substantive email. The criteria will be different depending on whether the producer is transferring email in their capacity as an officer or employee of an organization (e.g. SFU administrator's business correspondence) or in their private capacity as a individual (e.g. faculty member's personal correspondence).
+The goal is to select at the folder level for substantive email and eliminate non-substantive messages. The criteria for identifying "substantive" will be different depending on whether the producer is transferring email in their capacity as an officer or employee of an organization (e.g. SFU administrator's business correspondence) or in their private capacity as a individual (e.g. faculty member's personal correspondence).
 
 If the email consists of SFU business correspondence, folders should be mapped to existing records retention schedules.
 
