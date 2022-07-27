@@ -20,7 +20,7 @@ This site contains documentation relating to SFU Archives' processes for email a
 - [Pre-Transfer](archivists/pre-transfer.md)
 - [Transfer](archivists/transfer.md)
 - [Validation](archivists/validation.md)
-- [Appraisal and Selection](appraisal.md)
+- [Appraisal and Selection](archivists/appraisal.md)
 - Ingest
 - Completion
 - Download as PDF
