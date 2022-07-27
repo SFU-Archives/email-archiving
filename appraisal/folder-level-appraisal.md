@@ -1,5 +1,5 @@
 ###### [Email Archiving](../README.md) > Appraisal
-###### [Overview](overview.md) `|` [Account-level](account-level-appraisal.md) `|` [Folder-level](folder-level-appraial.md) `|` [Message-level](message-level-appraisal.md)
+###### [Overview](overview.md) `|` [Account-level](account-level-appraisal.md) `|` Folder-level `|` [Message-level](message-level-appraisal.md)
 
 # Folder-Level Appraisal
 **Folder-level appraisal** may be feasible if the producer organized their email with a clear folder structure and was consistent in filing messages. The archivist can determine this by several means:

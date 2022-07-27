@@ -1,5 +1,5 @@
 ###### [Email Archiving](../README.md) > Appraisal
-###### [Overview](overview.md) `|` [Account-level](account-level-appraisal.md) `|` [Folder-level](folder-level-appraial.md) `|` [Message-level](message-level-appraisal.md)
+###### Overview `|` [Account-level](account-level-appraisal.md) `|` [Folder-level](folder-level-appraisal.md) `|` [Message-level](message-level-appraisal.md)
 
 # Appraisal: Overview
 There are generally three levels of appraisal for email:
