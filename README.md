@@ -19,24 +19,24 @@ This site contains documentation relating to SFU Archives' processes for email a
 - [Overview](archivists/overview.md)
 - [Pre-Transfer](archivists/pre-transfer.md)
 - [Transfer](archivists/transfer.md)
-- Validation
-- Appraisal and Selection
+- [Validation](archivists/validation.md)
+- [Appraisal and Selection](appraisal.md)
 - Ingest
 - Completion
 - Download as PDF
 
 ## Appraisal
-- Overview
-- Account-level Appraisal
-- Folder-level Appraisal
-- Message-level Appraisal
+- [Overview](appraisal/overview.md)
+- [Account-level Appraisal](appraisal/account-level-appraisal.md)
+- [Folder-level Appraisal](appraisal/folder-level-apppraisal.md)
+- [Message-level Appraisal](appraisal/message-level-appraisal.md)
 - Download as PDF
 
 ## Arrangement and Description
 
 ## Access
 
-###### Last updated: Jul 21, 2022
+###### Last updated: Jul 27, 2022
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
